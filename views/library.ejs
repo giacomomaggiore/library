@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="/css/library.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="libreria">
+            <% for (i = 0; i < dimensione; i++){ %>
+                <div id="singolo-libro">
+                    <!-- <h1> <%= data[i].titolo %> </h1> -->
+                    <a target="_blank" href=<%= data[i].link %> >
+                        <img id="copertina" src= <%= data[i].src %> >
+                    
+                    </a> 
+                    
+                </div>    
+                
+            <% }%>
+            
+            
+        </div>
+
+    </body>
+</html>

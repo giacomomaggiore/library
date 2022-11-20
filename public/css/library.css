@@ -1,0 +1,34 @@
+#libreria{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+    justify-content: space-around;
+
+}
+
+#singolo-libro{
+    width: 16vw;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+    border: 1px solid black;
+}
+
+#singolo-libro:hover{
+    background-color: black;
+    -webkit-transition: background-color 300ms linear;
+    -ms-transition: background-color 300ms linear;
+    transition: background-color 300ms linear;
+}
+
+
+#copertina{
+    width: 70%;
+
+
+}
+
