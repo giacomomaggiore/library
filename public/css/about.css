@@ -1,0 +1,22 @@
+/*l'altezza dell'about è definita in layout.css 
+i colori di sfondo del footer e del suggest me sono gestiti in 
+layout.css
+*/
+
+
+#about{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    text-align: center;
+
+    
+    text-transform: uppercase;
+
+}
+
+#suggest_me:hover{
+    text-decoration: line-through;
+}
+

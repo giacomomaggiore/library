@@ -1,3 +1,10 @@
+/*APPLY TO ALL THE ELEMENTS OF THE WEBSITE */
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Almarai', sans-serif;
+}
 body, html{
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -5,10 +12,51 @@ body, html{
     height: 100%;
     width: 100%;
 
-    background-color: white;
-}
-*{
-    margin: 0;
-    padding: 0;
+    background-color: var(--background_libreria);
 
 }
+/*COLORI DI DEFAULT ----------------------------------------------*/
+:root {
+    --colore_testo: black;
+    --background_libreria: white ;
+    --colore_secondario:#985F6F ;
+    --colore_terziario: #C196AD; 
+}
+/*GESTIONE DEI COLORI DI HEADER, FOOTER----------------------------*/
+#header{
+    background-color:  var(--colore_secondario);
+}
+#footer{
+    background-color: var(--colore_terziario);
+}
+#suggest_me{
+    color: var(--colore_secondario);
+}
+
+
+
+
+/* METTERE SOLO LE ALTEZZE DI HEADER, ABOUT, FOOTER E RECENSIONE*/
+#header{
+    height: 15%;
+}   
+#about{
+    height: 75%;
+}
+#footer{
+    height: 10%;
+}
+#recensione{
+    height: 75%;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color:inherit; 
+    cursor:pointer;  
+}
+

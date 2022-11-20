@@ -1,0 +1,30 @@
+#recensione{
+    display: flex;
+
+}
+
+#recensione_copertina_div{
+    background-color: orangered;
+    /* WIDTH -----------------------------------*/
+    width: 40%;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+#recensione_copertina{
+    height: 90%;
+}
+
+#testo_recensione{
+    /* WIDTH -----------------------------------*/
+    width: 60%;
+
+    background-color: gray;
+
+
+    
+}

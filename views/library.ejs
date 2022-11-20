@@ -8,7 +8,8 @@
             <% for (i = 0; i < dimensione; i++){ %>
                 <div id="singolo-libro">
                     <!-- <h1> <%= data[i].titolo %> </h1> -->
-                    <a target="_blank" href=<%= data[i].link %> >
+                    <!-- <a target="_blank" href=<%= data[i].link %> >  --> 
+                    <a href="/<%= i %>">    
                         <img id="copertina" src= <%= data[i].src %> >
                     
                     </a> 

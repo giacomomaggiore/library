@@ -1,18 +1,31 @@
 #header{
-    background-color: rebeccapurple;
+    /*l'altezza dell'header è definita in layout.css
+    i colori di sfondo sono gestiti in layout.css */
     width: 100%;
 
-    height: 20%;
     width: 100%;
 
      display: flex;
     justify-content: space-between;  
 }
 
-#titolo_header{
-    padding-left: 2vw;
+/* TITOLO-------------------------------------------------------------------------------*/
+#titolo_div{
+    display: flex;
+    align-items: center;
 }
 
+
+#titolo_header{
+    padding-left: 2vw;
+    font-size: 350%;
+}
+
+#titolo_header:hover{
+    text-decoration: line-through;
+}
+
+/* INSTAGRAM LOGO AND LINK---------------------------------------------------------------- */
 #instagram_logo_div{
     height: 100%;
 

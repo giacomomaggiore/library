@@ -1,7 +1,17 @@
 #footer{
-    background-color: pink;
+    /*l'altezza dell'footer è definita in layout.css */
+    background-color: var(colore_secondario);
     width: 100%;
 
-    height: 10%;
     bottom: 0;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#made_by_love:hover{
+    text-decoration: line-through;
 }
