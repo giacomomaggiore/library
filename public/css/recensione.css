@@ -4,7 +4,7 @@
 }
 
 #recensione_copertina_div{
-    background-color: orangered;
+    background-color: white;
     /* WIDTH -----------------------------------*/
     width: 40%;
 
@@ -23,8 +23,26 @@
     /* WIDTH -----------------------------------*/
     width: 60%;
 
-    background-color: gray;
+   
+}
+#testo_recensione_div{
+    padding: 20px;
+    width: 80%;
+}
 
+#titolo_recensione{
+    font-size: 270%;
+}
 
-    
+#citazione_recensione{
+    font-style: italic;
+
+}
+#div_recensione_recensione{
+    background-color: transparent;
+}
+
+#recensione_recensione{
+    font-size: 160%;
+    padding-top: 20px;
 }

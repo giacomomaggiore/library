@@ -11,9 +11,34 @@
                 src= <%= libro.src %>  >
             </div>
             <div id="testo_recensione">
-                
-                <h1> <%= libro.titolo %> </h1>
-                <p> <%= libro.citazione %></p>
+                <div id="testo_recensione_div">
+                    <h1 id="titolo_recensione"> <%= libro.titolo %> </h1>
+                    <p id="citazione_recensione"><%= libro.citazione %></p>
+                    <div id="punteggio_div">
+                        <% if(libro.punteggio == 1){ %>
+                            <h1>★☆☆☆☆</h1>
+                        <%  } %>
+                        <% if(libro.punteggio == 2){ %>
+                            <h1>★★☆☆☆</h1>
+                        <%  } %>
+                        <% if(libro.punteggio == 3){ %>
+                            <h1>★★★☆☆</h1>
+                        <%  } %>
+                        <% if(libro.punteggio == 4){ %>
+                            <h1>★★★★☆</h1>
+                        <%  } %>
+                        <% if(libro.punteggio == 5){ %>
+                            <h1>★★★★★>/h1>
+                        <%  } %>
+                        
+
+                    </div>
+
+
+                    <div id="div_recensione_recensione">
+                        <p id="recensione_recensione"><%= libro.recensione %></p>
+                    </div>
+                </div>
             </div>
     
         </div>

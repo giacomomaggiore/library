@@ -229,14 +229,24 @@ app.get("/37", function(req,res){
         libro : data[38]
     })
 })
-app.get("/40", function(req,res){
+app.get("/38", function(req,res){
+    res.render("recensione", {
+        libro : data[38]
+    })
+})
+app.get("/39", function(req,res){
     res.render("recensione", {
         libro : data[39]
     })
 })
+app.get("/40", function(req,res){
+    res.render("recensione", {
+        libro : data[40]
+    })
+})
 app.get("/41", function(req,res){
     res.render("recensione", {
-        libro : data[42]
+        libro : data[41]
     })
 })
 app.get("/42", function(req,res){
