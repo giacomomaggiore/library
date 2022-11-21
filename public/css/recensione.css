@@ -36,6 +36,8 @@
 
 #citazione_recensione{
     font-style: italic;
+    font-size: 150%;
+    color: #7A7574;
 
 }
 #div_recensione_recensione{
@@ -44,5 +46,4 @@
 
 #recensione_recensione{
     font-size: 160%;
-    padding-top: 20px;
 }

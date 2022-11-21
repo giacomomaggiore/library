@@ -19,12 +19,7 @@
 
 }
 
-#singolo-libro:hover{
-    background-color: black;
-    -webkit-transition: background-color 300ms linear;
-    -ms-transition: background-color 300ms linear;
-    transition: background-color 300ms linear;
-}
+
 
 
 #copertina{

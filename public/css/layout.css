@@ -19,8 +19,8 @@ body, html{
 :root {
     --colore_testo: black;
     --background_libreria: white ;
-    --colore_secondario:#985F6F ;
-    --colore_terziario: #C196AD; 
+    --colore_secondario:#960200 ;
+    --colore_terziario: #ff9f1c; 
 }
 /*GESTIONE DEI COLORI DI HEADER, FOOTER----------------------------*/
 #header{
@@ -32,7 +32,12 @@ body, html{
 #suggest_me{
     color: var(--colore_secondario);
 }
-
+#singolo-libro:hover{
+    background-color: var(--colore_terziario);
+    -webkit-transition: background-color 500ms linear;
+    -ms-transition: background-color 500ms linear;
+    transition: background-color 500ms linear;
+}
 
 
 
