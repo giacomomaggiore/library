@@ -5,7 +5,6 @@ const data = require("./database.js")
 /* Di defaul il modulo EXPRESSLAYOUTS fa riferimento al file layout.ejs e ci renderizza dentro
 tutto quello che mettiamo dentro app.get */
 
-
 const app = express()
 //USE EXPRESS LAYOUTS
 app.use(expressLayouts)
