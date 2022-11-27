@@ -21,7 +21,7 @@ module.exports = [
     {
         titolo: "California",
         citazione: "Insomma, vorremmo essere un po' più come la California, che infatti da secoli è considerata la «fine del mondo»",
-            recensione: "Immaginiamo tutti la California come la terra dei sogni, dove vigneti paradisiaci incontrano il surf di Malibu Beach e le celebrità di Hollywood si confondono con gli startuppari che progettano la vita di tutta la popolazione. Eppure Francesco Costa racconta come la California stia attraversando una grande crisi sociale ed economica; attribuendo la colpa di questo declino ai californiani stessi, incapaci di accettare i cambiamenti e troppo bramosi di mantenere lo status quo. Il fatto interessante è che la California non è caso isolato, l'autore avverte infatti che sono molte le realtà sociali che stanno andando in questa direzione e espone le soluzioni attuabili per non replicare gli spiacevoli fatti accaduti nello stato americano.",
+        recensione: "Immaginiamo tutti la California come la terra dei sogni, dove vigneti paradisiaci incontrano il surf di Malibu Beach e le celebrità di Hollywood si confondono con gli startuppari che progettano la vita di tutta la popolazione. Eppure Francesco Costa racconta come la California stia attraversando una grande crisi sociale ed economica; attribuendo la colpa di questo declino ai californiani stessi, incapaci di accettare i cambiamenti e troppo bramosi di mantenere lo status quo. Il fatto interessante è che la California non è caso isolato, l'autore avverte infatti che sono molte le realtà sociali che stanno andando in questa direzione e espone le soluzioni attuabili per non replicare gli spiacevoli fatti accaduti nello stato americano.",
         punteggio: 5,
         src: "https://m.media-amazon.com/images/I/71jll4IJAmL.jpg",
         link: "https://www.amazon.it/California-Francesco-Costa/dp/8804755210/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VXSC7PW0ZB64&keywords=california+costa&qid=1666554573&qu=eyJxc2MiOiIwLjEyIiwicXNhIjoiMC4wNiIsInFzcCI6IjAuMTAifQ%3D%3D&sprefix=california+cost%2Caps%2C193&sr=8-1",
@@ -117,7 +117,7 @@ module.exports = [
     {
         titolo: "Corro perchè mia madre mi picchia",
         citazione: "La corsa è inutile, e proprio per questo va coltivata. Come un'arte.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Essendo sia milanese che corridore come gli autori, dovevo assolutamente leggere questo libro e, proprio come mi aspettavo; la sua lettura non ha fatto altro che motivarmi e divertirmi. Così come avrebbero fatto tutti gli altri runner; mi sono completamente ritrovato e immedesimato in ogni vicenda, abitudine e pensiero narrato all'interno del libro. Se anche voi siete dei corridori questo libro potrebbe essere un titolo perfetto per una lettura disimpegnata, leggera ma molto divertente; se invece non siete molto affini all'indossare delle scarpe da running, nonostante il libro non contenga molti consigli pratici su come avvicinarsi a questo sport; potrebbe darvi la motivazione per correre i primi chilometri.", 
         punteggio: 4,
         src: "https://www.oscarmondadori.it/content/uploads/2017/08/978880464855HIG.JPG",
         link: "https://www.amazon.it/Una-terra-promessa-Barack-Obama/dp/8811149878/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VVVS5PA89EES&keywords=una+terra+promessa&qid=1666554702&qu=eyJxc2MiOiIxLjkwIiwicXNhIjoiMS42NCIsInFzcCI6IjAuNTcifQ%3D%3D&sprefix=una+terra+promess%2Caps%2C237&sr=8-1",
@@ -125,7 +125,7 @@ module.exports = [
     {
         titolo: "Una notte ho sognato New York",
         citazione: "Bastano cinque minuti per sentirti parte di New York, ma una vita intera per capirla fino in fondo",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Piero Armenti, italiano trasferitosi nella Grande Mela dove ha avviato un'agenzia viaggi di successo; riesce a raccontare la storia di uno dei tanti italiani in fissa con il sogno americano. Il desiderio di vivere e lavorare negli States, che anche lui ha vissuto in età giovanile; viene quindi approfondito al meglio; includendo tutte le contraddizioni, i lati positivi e le fatiche che si celano dietro la vita sognata da tanti immigrati negli Stati Uniti d'America. ", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61vKCnaTK8L.jpg",
         link: "https://www.amazon.it/Una-notte-sognato-New-York/dp/8804724994/ref=sr_1_1?keywords=una+notte+ho+sognato+new+york&qid=1666554723&qu=eyJxc2MiOiIxLjA1IiwicXNhIjoiMC43MyIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=una+notte+h%2Caps%2C202&sr=8-1",
@@ -149,7 +149,7 @@ module.exports = [
     {
         titolo: "La mucca viola",
         citazione: "O sei una mucca viola o non sei nessuno. O sei straordinario o non esisti.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Il titolo potrebbe trarre in inganno i possibili letturi riguardo il contenuto; questo libro infatti, nonostante non sia propriamente un saggio specifico dato che utilizza un linguaggio e una narrazione accessibile a tutti, sintetizza in maniera abbastanza esaustiva e sintetica tutti i principi che dovrebbero stare alla base di un'operazione marketing di successo. Oltre che a spiegazioni più teoriche, vengono proposti numerosi case studies fallimentari e di successo che rappresentano le debolezze o i punti di forza di differenti metodi di concepire e progettare la pubblicità.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/718OGpfUOMS.jpg",
         link: "https://www.amazon.it/mucca-viola-notare-fortuna-marrone/dp/8836200559/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QD6TIK1V14XD&keywords=la+mucca+viola&qid=1666554757&qu=eyJxc2MiOiIxLjExIiwicXNhIjoiMC40MyIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=la+mucca+viol%2Caps%2C154&sr=8-1",
@@ -157,7 +157,7 @@ module.exports = [
     {
         titolo: "La montagna dentro",
         citazione: "Appendo l'amaca. Sotto di me il vuoto, sopra di me le stelle.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Nonostante pochi conoscano Herve Barmasse, l'autore di quest libro è un alplinista e scrittore molto rispettato da tutti gli amanti della montagna. Raccontando alcune sue vicende biografiche, Barmasse riesce a descrivere il suo rapporto fortissimo con la montagna e la società in cui vive, conferendo inoltre numerose lezioni sul corretto di vivere il mondo dell'alpinismo. Ovviamente all'interno del libro non sono presenti consigli tecnici su come avvicinarsi allo sci di fondo o all'arrampicata, ma sicuramente vi verrà voglia di lasciare la città e di esplorare ad alta quota a prescindere dal proprio livello di tecnica e allenamento.", 
         punteggio: 4,
         src: "https://www.ibs.it/images/9788858130117_0_536_0_75.jpg",
         link: "https://www.amazon.it/montagna-dentro-Herv%C3%A9-Barmasse/dp/8858130111/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=OGPON7MJPART&keywords=la+montagna+dentro&qid=1666554768&qu=eyJxc2MiOiIxLjE4IiwicXNhIjoiMC42MiIsInFzcCI6IjAuNTYifQ%3D%3D&sprefix=la+montagna+dent%2Caps%2C160&sr=8-1",
@@ -229,7 +229,7 @@ module.exports = [
     {
         titolo: "Let my people go surfing",
         citazione: "Non superare mai i tuoi limiti. Spingili al massimo e vivi per quei momenti, ma non andare oltre.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Patagonia, Nike, The North Face, Carhart, Adidas...    Potrebbero sembrarci tutti brand molto simili come prodotti, marketing e origine: eppure dietro la storia e i valori di Patagonia si cela una persona carismatica quanto riservata: il suo fondatore Yvon Chouinard:  un uomo estremamente attento all'ambiente, alle sue responsabilità da imprenditore e all'impatto sociale della sua azienda. Patagonia infatti ribalta completamente tutte le lezioni sull'imprenditoria americana: non offre saldi di ogni tipo, aumenta i prezzi qualora necessario per garantire una maggiore ecosostenibilità, compie enormi donazioni di beneficienza a minuscole comunità in giro per il mondo e non si cura delle tendenze del mercato quando va contro i valori dietro al brand.", 
         punteggio: 5,
         src: "https://www.ibs.it/images/9788865492611_0_536_0_75.jpg",
         link: "https://www.amazon.it/people-surfing-filosofia-imprenditore-ribelle/dp/8865492619/ref=sr_1_1?keywords=let+my+people+go+surfing&qid=1666554869&qu=eyJxc2MiOiIxLjQ1IiwicXNhIjoiMS4wNiIsInFzcCI6IjEuMjAifQ%3D%3D&sprefix=let+my%2Caps%2C250&sr=8-1",
@@ -269,7 +269,7 @@ module.exports = [
     {
         titolo: "New York è una città senza tende",
         citazione: "Qualcuno dice che siccome Manhattan è un isola, per continuare a vivere è costretta a demolire e ricostruire.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Conosciamo tutti New York come la città dell'Empire State Building, ail toro di Wall Street, le meraviglie di Central Park e le opere d'arte del Moma. L'essenza della Grande Mela ci è tuttavia sconosciuta: Paolo Cognetti permette di conoscere i quartieri più iconici ma più estrani agli occhi dei turisti; rivelando una città ben diversa dagli stereotipi e molto più piena di contraddizioni di quanto sembri. Se siete già stati a New York questo libro è l'occasione per cambiare punto di vista verso la città; in caso contrario resterete ancora più incuriositi dalla città più amata e discussa al mondo.", 
         punteggio: 4,
         src: "https://www.ibs.it/images/9788858130421_0_424_0_75.jpg",
         link: "https://www.amazon.it/New-York-finestra-senza-tende/dp/8858130421/ref=sr_1_1?keywords=new+york+%C3%A8+una+finestra+senza+tende&qid=1666554917&qu=eyJxc2MiOiIwLjI5IiwicXNhIjoiMC4wOCIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=new+york+%C3%A8%2Caps%2C231&sr=8-1",
@@ -293,7 +293,7 @@ module.exports = [
     {
         titolo: "After Dark",
         citazione: "La memoria umana è veramente strana: c'è conservata dentro un sacco di roba inutile, un sacco di cianfrusaglie.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Definerei After Dark come il libro senza trama. Più di un romanzo si tratta infatti di una narrazione di situazioni, stati d'animo e relazioni tra i personaggi; non vi è infatti un filo conduttore logico che lega i capitoli del libro; ciò nonostante durante la lettura ci si immerge nell'ambientazione del libro che, per quanto possa sembrare surreale, è costruita a partire da un reale quartiere di Tokyo. Non vi aspettate di capire qualcosa o imparare nulla da questo libro, piuttosto divertevi e godetevi la lettura come se non dovesse restarvi nulla al termine del libro.",  
         punteggio: 3,
         src: "https://www.ibs.it/images/9788806217006_0_536_0_75.jpg",
         link: "https://www.amazon.it/After-dark-Haruki-Murakami/dp/8806217003/ref=sr_1_1?crid=2X4ISDSJZC33J&keywords=after+dark+murakami&qid=1666554955&qu=eyJxc2MiOiIwLjgwIiwicXNhIjoiMC41NyIsInFzcCI6IjAuNTEifQ%3D%3D&sprefix=after+da%2Caps%2C419&sr=8-1",
@@ -301,7 +301,7 @@ module.exports = [
     {
         titolo: "La mia vita per la libertà",
         citazione: "Voi occidentali, avete l'ora ma non avete mai il tempo.",
-        recensione : "",
+        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://m.media-amazon.com/images/I/61SHXU6a9DL.jpg",
         link: "https://www.amazon.it/libert%C3%A0-Lautobiografia-profeta-della-non-violenza/dp/8854171654/ref=sr_1_1?keywords=la+mia+vita+per+la+libert%C3%A0&qid=1666554968&qu=eyJxc2MiOiIxLjA5IiwicXNhIjoiMC41OSIsInFzcCI6IjAuNzIifQ%3D%3D&sprefix=la+mia+vita+per+la+liber%2Caps%2C179&sr=8-1",
@@ -309,7 +309,7 @@ module.exports = [
     {
         titolo: "Il Potere delle Abitudini",
         citazione: "I campioni non fanno cose straordinarie. Fanno cose normali seguendo un abitudine.",
-        recensione : "",
+        recensione : "Sono abbastanza convinto che questo libro abbia rivoluzionata il modo di concepire e vivere la mia quotidianeità. Posso dire infatti che ormai svolgo la maggior parte delle mie attività per semplice abitudine. Per quanto possa sembrare monotono e noioso; essere delle persone guidate da solide routine comporta numerosi vantaggi: oltre a essere più efficienti e produttivi, permette di sprecare meno e fatica a decidere come e quando agire. Non vi garantisco che questo libro causerà gli stessi effetti  in voi, ma sicuramente cambierete idea riguardo il funzionamento del nostro corpo e leggerete numerosi consigli pratici su come implementare un'abitudine nella nostra quotidianeità.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/715dxFl2lSL.jpg",
         link: "https://www.amazon.it/potere-abitudini-formano-condizionano-cambiarle/dp/8850236905/ref=sr_1_1?keywords=il+potere+delle+abitudini&qid=1666554978&qu=eyJxc2MiOiIwLjgxIiwicXNhIjoiMC4zOSIsInFzcCI6IjAuMjgifQ%3D%3D&sprefix=il+potere+de%2Caps%2C184&sr=8-1",
@@ -317,7 +317,7 @@ module.exports = [
     {
         titolo: "Kafka sulla Spiaggia",
         citazione: "Poesia e simbolismo sono sempre stati inseparabili. Come i pirati e il rum.",
-        recensione : "",
+        recensione : "Non ricrdo molto dalla lettura di questo romanzo, se non che è stato il primo di Murakami e quello che mi ha fatto appasionare al modo di scrivere dell'autore giapponese. In 'kafka sulla spiaggia' il reale si confonde con l'immaginario, la vita quotidiana con il sogno, le azioni dei personaggi con i loro pensieri più intimi; fino a creare una condizione surreale in cui immergersi e di cui, almeno inizialmente, si capisce ben poco. E' questo tuttavia il punto forte di questo libro: aspettatevi tutto il contrario di una trama lineare, personaggi razionali e una narrazione logica e verosimile: nulla infatti si può dare per certo durante la lettura del romanzo.", 
         punteggio: 5,
         src: "https://m.media-amazon.com/images/I/61R0XpGhHgL.jpg",
         link: "https://www.amazon.it/Kafka-sulla-spiaggia-Haruki-Murakami/dp/8806216945/ref=sr_1_1?keywords=kafka+sulla+spiaggia+murakami&qid=1666554989&qu=eyJxc2MiOiIwLjk3IiwicXNhIjoiMC41MSIsInFzcCI6IjAuNDAifQ%3D%3D&sprefix=kafka+sulla%2Caps%2C209&sr=8-1",
@@ -325,7 +325,7 @@ module.exports = [
     {
         titolo: "L'ordine del Tempo",
         citazione: "Il tempo passa più velocemente in montagna che in collina.",
-        recensione : "",
+        recensione : "Ho letto questo libro tre volte e sono convinto di non averne ancora compreso a pieno il contenuto, sono certo tuttavia che la mia concezione dello 'scorrere del tempo' sia stata completamente rivoluzionata. Che voi siate degli appassionati di fisica o meno e a prescindere di quanto capirete delle parti più tecniche del testo di Rovelli, scoprirete alcune verità sulla fisica che, nonostante non abbiano alcuna applicazione nel quotidiano; conferiranno una maggiore comprensione di come, in maniera del tutto controintuivia e inaspettata, funziona il mondo in cui viviamo.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71GL+ee5ddL.jpg",
         link: "https://www.amazon.it/Lordine-del-tempo-Carlo-Rovelli/dp/8845931927/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3AKZZF3K9NAAY&keywords=l%27ordine+del+tempo&qid=1666555000&qu=eyJxc2MiOiIwLjQ3IiwicXNhIjoiMC4zMCIsInFzcCI6IjAuMjQifQ%3D%3D&sprefix=l+ordine+del+tem%2Caps%2C205&sr=8-1",
@@ -333,7 +333,7 @@ module.exports = [
     {
         titolo: "Il Nome della Rosa",
         citazione: "Spesso sono gli inquisitori a creare gli eretici.",
-        recensione : "",
+        recensione : "Leggere il capolavoro di Umberto Eco ha suscitato in me sensazioni contrastanti: la trama intrigante e incalzante mi motivava a perseguire nella lettura, l'ambientazione, un monastero benettino isolato dalla società, così lontana e inimmaginabile per un ragazzo del terzo millenio mi incuriosiva; mentre le interminabili e dettagliatissime descrizioni di ogni cosa, persona o avvenimento menzionata nel romanzo tendevano ad annoiarmi e a farmi leggere con distrazione quelle parti di libro. IL problema di questo film è rappresentato tuttavia dall'omonimo film, realizzato con estrema cura dei particolari e con fedeltà rispetto al testo: vi è infatti il rischio che il lettore si lasci 'impigrire' dalla lunghezza del libro in favore di una 'più' facile e leggera visione della pellicola.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/81dhmnbA1VL.jpg",
         link: "https://www.amazon.it/nome-della-rosa-Ediz-illustrata/dp/8834603001/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LVL1YP35Z1LT&keywords=il+nome+della+rosa&qid=1666555010&qu=eyJxc2MiOiIyLjIxIiwicXNhIjoiMS4yNyIsInFzcCI6IjEuMTcifQ%3D%3D&sprefix=il+nome+della+ro%2Caps%2C190&sr=8-1",
@@ -341,7 +341,7 @@ module.exports = [
     {
         titolo: "L'estate che conobbi il Che",
         citazione: "«Ma cosa c’entra la scuola con la rivoluzione?» «Cesare, la rivoluzione si fa con le idee, non con i fucili».",
-        recensione : "",
+        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.rizzolilibri.it/content/uploads/2015/04/17/278764/3253969-9788817080040.png",
         link: "https://www.amazon.it/Lestate-che-conobbi-Luigi-Garlando/dp/8817096466/ref=sr_1_1?keywords=l+estate+che+conobbi+il+che&qid=1666555026&qu=eyJxc2MiOiIwLjc2IiwicXNhIjoiMC40MiIsInFzcCI6IjAuMjYifQ%3D%3D&sprefix=l%27estate+che+conob%2Caps%2C183&sr=8-1",
@@ -349,7 +349,7 @@ module.exports = [
     {
         titolo: "La sottile arte di fare quello che cazzo ti pare",
         citazione: "La società confonde l'attenzione con il successo. Il semplice fatto di poter scegliere i valori per cui sbatterci ci rende persone di successo.",
-        recensione : "",
+        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.ibs.it/images/9788822707475_0_536_0_75.jpg",
         link: "https://www.amazon.it/scorretto-efficace-liberarsi-irritanti-problemi/dp/8822707451/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
@@ -357,7 +357,7 @@ module.exports = [
     {
         titolo: "CARCHITECTURE - Houses with horsepower",
         citazione: "Homes should be built in factories similar to those for automobiles",
-        recensione : "",
+        recensione : "Che cosa c'entra Le Corbusier con l'azienda automobilistica SAAB? CARCHITECTURE non cerca di rispondere a questa domanda in modo approfondito e tecnico, eppure riesce a mettere a confronto due mondi che spesso non sono mai accostati: l'architettura e le automobili. Non aspettatevi però un'analisi del rapporto tra queste due; prendete il libro per quello che è: una semplice ma piacevole raccolta di scatti che ritraggono architetture e macchine che, per la loro storia, per il loro stile o semplicemente per i loro proprietari; sono collegate.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/41SfoJBKnNL.jpg",
         link: "https://www.amazon.it/Carchitecture-Houses-Horsepower-Thijs-Demeulemeester/dp/9401461031",

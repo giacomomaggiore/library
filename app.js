@@ -258,7 +258,11 @@ app.get("/43", function(req,res){
         libro : data[43]
     })
 })
-
+app.get("/44", function(req,res){
+    res.render("recensione", {
+        libro : data[44]
+    })
+})
 
 
 
