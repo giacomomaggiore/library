@@ -118,15 +118,30 @@ app.get("/11", function(req,res){
 })
 app.get("/12", function(req,res){
     res.render("recensione", {
+        libro : data[12]
+    })
+})
+app.get("/13", function(req,res){
+    res.render("recensione", {
         libro : data[13]
     })
 })
 app.get("/14", function(req,res){
     res.render("recensione", {
+        libro : data[14]
+    })
+})
+app.get("/15", function(req,res){
+    res.render("recensione", {
         libro : data[15]
     })
 })
 app.get("/16", function(req,res){
+    res.render("recensione", {
+        libro : data[16]
+    })
+})
+app.get("/17", function(req,res){
     res.render("recensione", {
         libro : data[17]
     })
