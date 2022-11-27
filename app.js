@@ -37,10 +37,18 @@ app.get("/about", function(req,res){
 })
 
 /*PER FARE LE PAGINE DEI SINGOLI LIBRI:
-tanti app.get quanti sono i libri nella libreria, cambia però
-solo il percorso a cui vengono mandati (ossia il nome del libro),
-e l'indice dei parametri mandati.
-al file ejs sarà passato tutto l'oggetto data[i] da cui verrà ricavato il contenuto vario*/
+tanti app.get quanti sono i libri nella libreria, cambia però solo il percorso a cui vengono mandati (ossia il nome del libro),
+e l'indice dei parametri mandati. 
+al file ejs sarà passato tutto l'oggetto data[i] da cui verrà ricavato il contenuto vario
+
+Verranno rendirizzati gli indirizzi a multipli di 6 , in modo da evitare problemi di layout nel desktop.
+Così facendo nel mobile, in cui i libri saranno disposti su righe di 3, non ci saranno problemi 
+
+RICORDARSI DI INIZIARE A CONTARE DA 0, i multipli di 6 saranno quindi:
+41 - 47 - 53
+*/
+
+
 
 
 app.get("/0", function(req,res){
@@ -248,6 +256,9 @@ app.get("/41", function(req,res){
         libro : data[41]
     })
 })
+
+
+
 app.get("/42", function(req,res){
     res.render("recensione", {
         libro : data[42]

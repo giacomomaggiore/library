@@ -5,7 +5,13 @@
     </head>
     <body>
         <div id="libreria">
-            <% for (i = 0; i < dimensione; i++){ %>
+            <!-- CALCOLO DI QUANTI LIBRI VANNO RENDERIZZATI A MULTIPLI DI 6-->
+            <% let numero = (Math.floor(dimensione/6)) * 6%>
+            <% console.log(numero)%>
+            
+
+
+            <% for (i = 0; i < numero; i++){ %>
                 <div id="singolo-libro">
                     <!-- <h1> <%= data[i].titolo %> </h1> -->
                     <!-- <a target="_blank" href=<%= data[i].link %> >  --> 
