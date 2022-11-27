@@ -285,7 +285,7 @@ module.exports = [
     {
         titolo: "The Hate u Give",
         citazione: "Thug Life stood for 'The Hate U Give Little Infants Fucks Everybody'",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Dopo l'omicidio di George Floyd del 2020 il movimento 'Black Lives Matter' ha guadagnato ancora più visibilità, per me il modo migliore per avvicinarsi a queste tematiche è stato leggere questo romanzo inverosimile, in cui l'oppressione razziale e i pregiudizi a cui sono ancora sottopostem molte persone di colore sono raccontati dal punto di vista di una giovane ragazza, talvolta incapace di comprendere e quasi ingenua di fronte alle situazioni paradossali che si trova ad affrontare per via delle sue origini. Leggere questo libro in lingua originale è stato sicuramente un valore aggiunto: mi ha permesso di immergermi, grazie allo 'slang' e ai modi di fare descritti; nella vita del protagonist e nel contesto sociale in cui è ambientato il romanzo.", 
         punteggio: 3,
         src: "https://www.ibs.it/images/9788809836402_0_536_0_75.jpg",
         link: "https://www.amazon.it/Hate-Give-coraggio-della-verit%C3%A0/dp/8809909909/ref=sr_1_1?keywords=the+hate+u+give&qid=1666554940&qu=eyJxc2MiOiIyLjQyIiwicXNhIjoiMi4wOSIsInFzcCI6IjIuMTIifQ%3D%3D&sprefix=the+hate%2Caps%2C634&sr=8-1",
@@ -301,7 +301,7 @@ module.exports = [
     {
         titolo: "La mia vita per la libertà",
         citazione: "Voi occidentali, avete l'ora ma non avete mai il tempo.",
-        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Ovviamente conoscevo Gandhi per la sua assoluta non-violenza; per cui, da amante delle storie di personaggi storici e di successo; mi sono immerso nella lettura dell'autobiografia del Mahatma: ho approfondito la sua ideologia e il contesto in cui si è ritrovato ad agire, felice tuttavia di essere in disaccordo riguardo tematiche e permettendomi di sviluppare meglio il mio punto di vista riguardo alcuni problemi sociali e politici del nostro tempo. Non si tratta nè di una lettura divertente nè facile, è tuttavia una buona occasione per imparare a sviluppare una propria mentalità e diventare più critici riguardo il mondo che ci circonda.", 
         punteggio: 3,
         src: "https://m.media-amazon.com/images/I/61SHXU6a9DL.jpg",
         link: "https://www.amazon.it/libert%C3%A0-Lautobiografia-profeta-della-non-violenza/dp/8854171654/ref=sr_1_1?keywords=la+mia+vita+per+la+libert%C3%A0&qid=1666554968&qu=eyJxc2MiOiIxLjA5IiwicXNhIjoiMC41OSIsInFzcCI6IjAuNzIifQ%3D%3D&sprefix=la+mia+vita+per+la+liber%2Caps%2C179&sr=8-1",
@@ -341,7 +341,7 @@ module.exports = [
     {
         titolo: "L'estate che conobbi il Che",
         citazione: "«Ma cosa c’entra la scuola con la rivoluzione?» «Cesare, la rivoluzione si fa con le idee, non con i fucili».",
-        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Come fa il Che Guevara a entrare in modo definitivo nella vita di Cesare, un tipico ragazzo brianzolo poco interessato di politica e storia? Garlando, come già dimostrato nei suoi precedenti romanzi, riesce a raccontare la storia di grandi personaggi storici lontanissimi geograficamente e cronologicamente 'trasportandoli' in un contesto a noi molto più vicino. Le storie dei due protagonisti infatti, il Che e Cesare, si intrecciano, inizialmente quasi per caso; dando vita a una narrazione che viaggia nel tempo restando tuttavia connessa con la vita 'mondana' del adolescente protagonista che, nel frattempo, ha l'occasione di scoprire molto diù riguardo la sua famiglia e crescere dal punto di vista personale.", 
         punteggio: 4,
         src: "https://www.rizzolilibri.it/content/uploads/2015/04/17/278764/3253969-9788817080040.png",
         link: "https://www.amazon.it/Lestate-che-conobbi-Luigi-Garlando/dp/8817096466/ref=sr_1_1?keywords=l+estate+che+conobbi+il+che&qid=1666555026&qu=eyJxc2MiOiIwLjc2IiwicXNhIjoiMC40MiIsInFzcCI6IjAuMjYifQ%3D%3D&sprefix=l%27estate+che+conob%2Caps%2C183&sr=8-1",
@@ -349,7 +349,7 @@ module.exports = [
     {
         titolo: "La sottile arte di fare quello che cazzo ti pare",
         citazione: "La società confonde l'attenzione con il successo. Il semplice fatto di poter scegliere i valori per cui sbatterci ci rende persone di successo.",
-        recensione : "",//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Il titolo del libro potrebbe essere frainteso per il tono utilizzato, eppure l'autore invita veramente a fare 'quel cazzo che vogliamo'; ossia di conferire molta meno importanza a tutte le aspettative della società e impegnare il nostro tempo in ciò che veramente da valore alle nostre vite. La chiave per essere felici e soddisfatti delle proprie giornte è rappresentata da questo: essere estreamemnte selettivi su ciò per cui decidiamo di sbatterci; uscendo completamente dalla mentalità che ci spinge a fare sempre di più e limitando le nostre attività a ciò in cui crediamo realmente. ", 
         punteggio: 4,
         src: "https://www.ibs.it/images/9788822707475_0_536_0_75.jpg",
         link: "https://www.amazon.it/scorretto-efficace-liberarsi-irritanti-problemi/dp/8822707451/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
