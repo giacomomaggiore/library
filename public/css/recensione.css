@@ -78,7 +78,7 @@
     display: flex;
     flex-direction: column;
 
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 #recensione_recensione.mobile{
     font-size: 230%;
