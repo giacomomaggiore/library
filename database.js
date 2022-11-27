@@ -13,7 +13,7 @@ module.exports = [
     {
         titolo: "Tu non sai cos'è la guerra",
         citazione: "Mi vergogno ad ammettere di non avere una casa... L'ho sempre trovato insopportabile, dal giorno in cui siamo fuggite.",
-        recensione: "",
+        recensione: "", //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.ibs.it/images/9791221203134_0_536_0_75.jpg",
         link: "https://www.amazon.it/Tu-non-sai-cosè-guerra-ebook/dp/B0BHX12FJZ",
@@ -29,7 +29,7 @@ module.exports = [
     {
         titolo: "What I learned losing a million dollars",
         citazione: "You don't know why the market is going up or down, you just want to know what is doing",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/51fGOyjVMlL.jpg",
         link: "https://www.amazon.it/What-Learned-Losing-Million-Dollars/dp/0231164688/ref=sr_1_1?keywords=what+i+learned+losing+a+million+dollars&qid=1666554557&qu=eyJxc2MiOiIwLjQ4IiwicXNhIjoiMC4xMSIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=what+i+learn%2Caps%2C217&sr=8-1",
@@ -69,7 +69,7 @@ module.exports = [
     {
         titolo: "Giocati dal Caso",
         citazione: "Nessuno accetta il caso come causa del proprio successo, ma solo del proprio fallimento.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://kbimages1-a.akamaihd.net/07db90c8-5875-48b7-86a0-7d73423973a5/1200/1200/False/giocati-dal-caso-1.jpg",
         link: "https://www.amazon.it/Giocati-caso-ruolo-fortuna-finanza/dp/8842820237/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2C07373FYB580&keywords=giocati+dal+caso&qid=1666554645&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC41MiIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=giocati+dal+cas%2Caps%2C171&sr=8-1",
@@ -77,7 +77,7 @@ module.exports = [
     {
         titolo: "Steve Jobs non abita qui",
         citazione: "Airbnb non è proprio come McDonald's, ma come un avocato toast sostenibile e facilmente replicabile.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 5,
         src: "https://www.adelphi.it/spool/cover__id8866_w600_t1594807353.jpg&.jpg",
         link: "https://www.amazon.it/Steve-Jobs-non-abita-pi%C3%B9/dp/8845934640/ref=sr_1_1?keywords=steve+jobs+non+abita+pi%C3%B9+qui&qid=1666554659&qu=eyJxc2MiOiIwLjM5IiwicXNhIjoiMC4yMyIsInFzcCI6IjAuMjEifQ%3D%3D&sprefix=steve+j%2Caps%2C178&sr=8-1",
@@ -93,7 +93,7 @@ module.exports = [
     {
         titolo: "La Sostanza Instabile",
         citazione: "“Qualcosa è esploso”. Loro sono i terroristi, quasi sicuramente islamici. ",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://www.giulioperroneditore.com/wp-content/uploads/2021/06/copertina_lombezzi_min.jpg",
         link: "https://www.amazon.it/sostanza-instabile-Giulia-Lombezzi/dp/8860045703/ref=sr_1_1?keywords=la+sostanza+instabile&qid=1666554682&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=la+sostanza+ins%2Caps%2C201&sr=8-1",
@@ -101,7 +101,7 @@ module.exports = [
     {
         titolo: "Helgoland",
         citazione: "La teoria dei quanti è la migliore descrizione della natura di cui disponiamo oggi.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/617aCsvbXJL.jpg",
         link: "https://www.amazon.it/Helgoland-Carlo-Rovelli/dp/8845935051/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BWGZ49K45D8E&keywords=helgoland&qid=1666554692&qu=eyJxc2MiOiIwLjkzIiwicXNhIjoiMC40NCIsInFzcCI6IjAuNDEifQ%3D%3D&sprefix=halgola%2Caps%2C224&sr=8-1",
@@ -109,7 +109,7 @@ module.exports = [
     {
         titolo: "Una Terra Promessa",
         citazione: "Ero diventato un politico. E nemmeno troppo bravo.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71W0kAoWW4L.jpg",
         link: "https://www.amazon.it/Una-terra-promessa-Barack-Obama/dp/8811149878/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VVVS5PA89EES&keywords=una+terra+promessa&qid=1666554702&qu=eyJxc2MiOiIxLjkwIiwicXNhIjoiMS42NCIsInFzcCI6IjAuNTcifQ%3D%3D&sprefix=una+terra+promess%2Caps%2C237&sr=8-1",
@@ -117,7 +117,7 @@ module.exports = [
     {
         titolo: "Corro perchè mia madre mi picchia",
         citazione: "La corsa è inutile, e proprio per questo va coltivata. Come un'arte.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.oscarmondadori.it/content/uploads/2017/08/978880464855HIG.JPG",
         link: "https://www.amazon.it/Una-terra-promessa-Barack-Obama/dp/8811149878/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VVVS5PA89EES&keywords=una+terra+promessa&qid=1666554702&qu=eyJxc2MiOiIxLjkwIiwicXNhIjoiMS42NCIsInFzcCI6IjAuNTcifQ%3D%3D&sprefix=una+terra+promess%2Caps%2C237&sr=8-1",
@@ -125,7 +125,7 @@ module.exports = [
     {
         titolo: "Una notte ho sognato New York",
         citazione: "Bastano cinque minuti per sentirti parte di New York, ma una vita intera per capirla fino in fondo",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61vKCnaTK8L.jpg",
         link: "https://www.amazon.it/Una-notte-sognato-New-York/dp/8804724994/ref=sr_1_1?keywords=una+notte+ho+sognato+new+york&qid=1666554723&qu=eyJxc2MiOiIxLjA1IiwicXNhIjoiMC43MyIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=una+notte+h%2Caps%2C202&sr=8-1",
@@ -133,7 +133,7 @@ module.exports = [
     {
         titolo: "I Principi del Successo",
         citazione: "Confidate nella verità a tutti i costi e nella trasparenza estrema",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71LyvaUH80L.jpg",
         link: "https://www.amazon.it/principi-del-successo-Ray-Dalio/dp/8820385716/ref=sr_1_1?keywords=i+principi+del+successo+ray+dalio&qid=1666554733&qu=eyJxc2MiOiIxLjI4IiwicXNhIjoiMC44MSIsInFzcCI6IjAuOTEifQ%3D%3D&sprefix=i+principi+del+%2Caps%2C208&sr=8-1",
@@ -141,7 +141,7 @@ module.exports = [
     {
         titolo: "Il Cigno Nero",
         citazione: "Perchè ci ostiniamo a pianificare il futuro quando le nostre vite vengono modificate dall'ignoto?",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61rsVxQlXIL.jpg",
         link: "https://www.amazon.it/cigno-nero-limprobabile-governa-nostra/dp/884282027X/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HWYIG0PARQ2W&keywords=il+cigno+nero&qid=1666554745&qu=eyJxc2MiOiIwLjc5IiwicXNhIjoiMC40MiIsInFzcCI6IjAuNTAifQ%3D%3D&sprefix=il+cigno+ne%2Caps%2C177&sr=8-1",
@@ -149,7 +149,7 @@ module.exports = [
     {
         titolo: "La mucca viola",
         citazione: "O sei una mucca viola o non sei nessuno. O sei straordinario o non esisti.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/718OGpfUOMS.jpg",
         link: "https://www.amazon.it/mucca-viola-notare-fortuna-marrone/dp/8836200559/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QD6TIK1V14XD&keywords=la+mucca+viola&qid=1666554757&qu=eyJxc2MiOiIxLjExIiwicXNhIjoiMC40MyIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=la+mucca+viol%2Caps%2C154&sr=8-1",
@@ -157,7 +157,7 @@ module.exports = [
     {
         titolo: "La montagna dentro",
         citazione: "Appendo l'amaca. Sotto di me il vuoto, sopra di me le stelle.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.ibs.it/images/9788858130117_0_536_0_75.jpg",
         link: "https://www.amazon.it/montagna-dentro-Herv%C3%A9-Barmasse/dp/8858130111/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=OGPON7MJPART&keywords=la+montagna+dentro&qid=1666554768&qu=eyJxc2MiOiIxLjE4IiwicXNhIjoiMC42MiIsInFzcCI6IjAuNTYifQ%3D%3D&sprefix=la+montagna+dent%2Caps%2C160&sr=8-1",
@@ -165,7 +165,7 @@ module.exports = [
     {
         titolo: "Allegro Occidentale",
         citazione: "....E scoprì che i cinesi vedono gli occidentali tutti allo stesso modo.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61H+Jg0kL+L.jpg",
         link: "https://www.amazon.it/Allegro-occidentale-Francesco-Piccolo/dp/8806227599/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2W7YH4X10OS88&keywords=allegro+occidentale&qid=1666554781&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=allegro+occidental%2Caps%2C176&sr=8-1il ",
@@ -173,7 +173,7 @@ module.exports = [
     {
         titolo: "Il metodo Warren Buffet",
         citazione: "Ciò che mi preoccupa di più è la mcnanza di fiducia negli investimenti a lungo termine.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/51q-meCl8VL.jpg",
         link: "https://www.amazon.it/metodo-Warren-Buffett-segreti-investitore/dp/8820362716/ref=sr_1_1?keywords=il+metodo+warren+buffett&qid=1666554796&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMC44NyIsInFzcCI6IjAuNjgifQ%3D%3D&sprefix=il+metodo+w%2Caps%2C160&sr=8-1",
@@ -181,7 +181,7 @@ module.exports = [
     {
         titolo: "Lo zen e l'arte di manutenzione della motocicletta",
         citazione: "Vivere soltanto in funzione di una meta futura è sciocco. È sui fianchi delle montagne, e non sulla cima, che si sviluppa la vita",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 5,
         src: "https://m.media-amazon.com/images/I/41q9GMGWmeL.jpg",
         link: "https://www.amazon.it/zen-larte-della-manutenzione-motocicletta/dp/8845907341/ref=sr_1_1?keywords=lo+zen+e+l+arte+della+manutenzione+della+motocicletta&qid=1666554806&qu=eyJxc2MiOiIwLjg0IiwicXNhIjoiMC4zNyIsInFzcCI6IjAuNDQifQ%3D%3D&sprefix=lo+zen+e%2Caps%2C141&sr=8-1",
@@ -189,7 +189,7 @@ module.exports = [
     {
         titolo: "Prima persona singolare",
         citazione: "Cambiando l’esposizione dei raggi del sole, l’ombra diventa luce, la luce diventa ombra. Il positivo diventa negativo, e viceversa",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://www.ibs.it/images/9788806248284_0_536_0_75.jpg",
         link: "https://www.amazon.it/Prima-persona-singolare-Haruki-Murakami/dp/8806248286/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=CU10USRP3RTQ&keywords=prima+persona+singolare&qid=1666554817&qu=eyJxc2MiOiIwLjQyIiwicXNhIjoiMC4xOCIsInFzcCI6IjAuMjEifQ%3D%3D&sprefix=prima+persona+singolar%2Caps%2C214&sr=8-1",
@@ -197,7 +197,7 @@ module.exports = [
     {
         titolo: "Homo Sapiens",
         citazione: "Siamo dei che si sono fatti da sè.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 5,
         src: "https://www.ibs.it/images/9788845296499_0_536_0_75.jpg",
         link: "https://www.amazon.it/Sapiens-animali-Breve-storia-dellumanit%C3%A0/dp/8845296490/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WEI089GNRYD0&keywords=homo+sapiens&qid=1666554827&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi40MCIsInFzcCI6IjIuMzYifQ%3D%3D&sprefix=homo+sapien%2Caps%2C161&sr=8-1",
@@ -205,7 +205,7 @@ module.exports = [
     {
         titolo: "Da zero a uno",
         citazione: "Il monopolio è la condizione di ogni business di successo",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71smRBsS57L.jpg",
         link: "https://www.amazon.it/segreti-startup-ovvero-costruisce-futuro/dp/8817080462/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GMFO4F75D74D&keywords=da+zero+a+uno&qid=1666554841&qu=eyJxc2MiOiIxLjI5IiwicXNhIjoiMC44OCIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=da+zero+a+%2Caps%2C222&sr=8-1",
@@ -213,7 +213,7 @@ module.exports = [
     {
         titolo: "Tim Cook",
         citazione: "Non ho mai riconosciuta la mia sessualità pubblicamente. Quindi fatemi essere chiaro: sono fiero di esseregay",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/419maTdPYrL.jpg",
         link: "https://www.amazon.it/Cook-genio-cambiato-futuro-Apple/dp/8820067609/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MZKCJRYRJQW7&keywords=tim+cook&qid=1666554850&qu=eyJxc2MiOiIxLjMxIiwicXNhIjoiMC45NyIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=tim+co%2Caps%2C284&sr=8-1",
@@ -221,7 +221,7 @@ module.exports = [
     {
         titolo: "Momenti di trascurabile felicità",
         citazione: "Tutte le cose che bisogna fare, mi piace rimandarle, oppure averle già fatte.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61u6kJLydPL.jpg",
         link: "https://www.amazon.it/Momenti-trascurabile-felicit%C3%A0-Francesco-Piccolo/dp/8806219650/ref=sr_1_1?keywords=momenti+di+trascurabile+felicit%C3%A0&qid=1666554860&qu=eyJxc2MiOiIwLjgwIiwicXNhIjoiMC40MiIsInFzcCI6IjAuNDkifQ%3D%3D&sprefix=momenti+di+tr%2Caps%2C256&sr=8-1",
@@ -229,7 +229,7 @@ module.exports = [
     {
         titolo: "Let my people go surfing",
         citazione: "Non superare mai i tuoi limiti. Spingili al massimo e vivi per quei momenti, ma non andare oltre.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 5,
         src: "https://www.ibs.it/images/9788865492611_0_536_0_75.jpg",
         link: "https://www.amazon.it/people-surfing-filosofia-imprenditore-ribelle/dp/8865492619/ref=sr_1_1?keywords=let+my+people+go+surfing&qid=1666554869&qu=eyJxc2MiOiIxLjQ1IiwicXNhIjoiMS4wNiIsInFzcCI6IjEuMjAifQ%3D%3D&sprefix=let+my%2Caps%2C250&sr=8-1",
@@ -237,7 +237,7 @@ module.exports = [
     {
         titolo: "Fahreneith 451",
         citazione: "Un libro è una pistola carica.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://upload.wikimedia.org/wikipedia/en/d/db/Fahrenheit_451_1st_ed_cover.jpg",
         link: "https://www.amazon.it/Fahrenheit-451-Ray-Bradbury/dp/8804665297/ref=sr_1_1?keywords=fahrenheit+451&qid=1666554880&qu=eyJxc2MiOiIxLjYwIiwicXNhIjoiMC45MiIsInFzcCI6IjAuOTIifQ%3D%3D&sprefix=fahren%2Caps%2C399&sr=8-1",
@@ -245,7 +245,7 @@ module.exports = [
     {
         titolo: "Il Grande Gatsby",
         citazione: "La trovai sdraiata sul letto nel suo vestito a fiori bella come una notte di giugno e ubriaca come una scimmia",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://m.media-amazon.com/images/I/41y-+nsBaRL.jpg",
         link: "https://www.amazon.it/grande-Gatsby-Francis-Scott-Fitzgerald/dp/8807900238/ref=sr_1_2?keywords=il+grande+gatsby&qid=1666554891&qu=eyJxc2MiOiIzLjY2IiwicXNhIjoiMi43OCIsInFzcCI6IjIuNzkifQ%3D%3D&sprefix=il+gra%2Caps%2C286&sr=8-2",
@@ -253,7 +253,7 @@ module.exports = [
     {
         titolo: "L'unica regola è che non ci sono regole",
         citazione: "Non c'è nessuna politica. Usa il buon senso. Agisci nell'interesse di Netflix.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/41aRXSNYHJL.jpg",
         link: "",
@@ -261,7 +261,7 @@ module.exports = [
     {
         titolo: "Le tre del mattino",
         citazione: "Si è fatto tardi molto presto.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.einaudi.it/content/uploads/2017/10/978880623607HIG.JPG",
         link: "https://www.amazon.it/tre-del-mattino-Gianrico-Carofiglio/dp/8806240706/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3IFRRP04A4TBT&keywords=le+tre+del+mattino&qid=1666554906&qu=eyJxc2MiOiIwLjQ1IiwicXNhIjoiMC4xNyIsInFzcCI6IjAuMjIifQ%3D%3D&sprefix=le+tre+del+matt%2Caps%2C295&sr=8-1",
@@ -269,7 +269,7 @@ module.exports = [
     {
         titolo: "New York è una città senza tende",
         citazione: "Qualcuno dice che siccome Manhattan è un isola, per continuare a vivere è costretta a demolire e ricostruire.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://www.ibs.it/images/9788858130421_0_424_0_75.jpg",
         link: "https://www.amazon.it/New-York-finestra-senza-tende/dp/8858130421/ref=sr_1_1?keywords=new+york+%C3%A8+una+finestra+senza+tende&qid=1666554917&qu=eyJxc2MiOiIwLjI5IiwicXNhIjoiMC4wOCIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=new+york+%C3%A8%2Caps%2C231&sr=8-1",
@@ -277,7 +277,7 @@ module.exports = [
     {
         titolo: "Norvegian Wood",
         citazione: "Prendere le cose sul serio non sempre significa avvicinarsi alla verità",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/81RARTnoWjL.jpg",
         link: "https://www.amazon.it/Norwegian-wood-Tokyo-Haruki-Murakami/dp/8806216465/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2V9SV1H7Y2LDY&keywords=norwegian+wood&qid=1666554930&qu=eyJxc2MiOiIxLjM2IiwicXNhIjoiMC44NyIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=norveg%2Caps%2C372&sr=8-1",
@@ -285,7 +285,7 @@ module.exports = [
     {
         titolo: "The Hate u Give",
         citazione: "Thug Life stood for 'The Hate U Give Little Infants Fucks Everybody'",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://www.ibs.it/images/9788809836402_0_536_0_75.jpg",
         link: "https://www.amazon.it/Hate-Give-coraggio-della-verit%C3%A0/dp/8809909909/ref=sr_1_1?keywords=the+hate+u+give&qid=1666554940&qu=eyJxc2MiOiIyLjQyIiwicXNhIjoiMi4wOSIsInFzcCI6IjIuMTIifQ%3D%3D&sprefix=the+hate%2Caps%2C634&sr=8-1",
@@ -293,7 +293,7 @@ module.exports = [
     {
         titolo: "After Dark",
         citazione: "La memoria umana è veramente strana: c'è conservata dentro un sacco di roba inutile, un sacco di cianfrusaglie.",
-        recensione : "",
+        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         punteggio: 3,
         src: "https://www.ibs.it/images/9788806217006_0_536_0_75.jpg",
         link: "https://www.amazon.it/After-dark-Haruki-Murakami/dp/8806217003/ref=sr_1_1?crid=2X4ISDSJZC33J&keywords=after+dark+murakami&qid=1666554955&qu=eyJxc2MiOiIwLjgwIiwicXNhIjoiMC41NyIsInFzcCI6IjAuNTEifQ%3D%3D&sprefix=after+da%2Caps%2C419&sr=8-1",
