@@ -19,13 +19,62 @@
     align-items: center;
 
 }
-
-
-
-
-
-
 #copertina{
+    width: 70%;
+}
+
+
+/* DESKTOP CSS */
+#libreria.desktop{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+    justify-content: space-around;
+
+}
+
+#singolo-libro.desktop{
+    width: 16vw;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+#copertina.desktop{
+    width: 70%;
+}
+
+/*MOBILE CSS */
+#libreria.mobile{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+    justify-content: space-around;
+
+}
+
+#singolo-libro.mobile{
+
+
+    width: 32vw;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+#copertina.mobile{
     width: 70%;
 }
 
