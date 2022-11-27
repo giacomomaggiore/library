@@ -7,7 +7,7 @@
 
     width: 100%;
 
-     display: flex;
+    display: flex;
     justify-content: space-between;  
 }
 
@@ -43,17 +43,31 @@
     align-items: center;
     padding-right: 2vw;
 }
+/*NONOSTANTE SIA STILATA NELLA SEZIONE DEKSTOP E CSS QUA SOTTO TENGO L'HEIGHT DI DEFAULT A 70 IN MODO
+CHE NON FACCIA EFFETTO GLITCH DURANTE IL CARICAMENTO DELLA PAGINA*/
+#instagram_logo.desktop{
+    height: 70%;
+}
+
 
 
 /*---------------------------------------------------------------------------------------------/*
 /*---------------------------------------------------------------------------------------------/*
 /*DESKTOP CSS------------------------------------------------------------------------------------*/
+
+
 #instagram_logo.desktop{
     height: 70%;
 }
 
 
 /*MOBILE CSS------------------------------------------------------------------------------------ */
+#titolo_header.mobile{
+    padding-left: 2vw;
+    font-size: 400%;
+}
+
+
 #instagram_logo.mobile{
     height: 40%;
 }

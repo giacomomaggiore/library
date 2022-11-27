@@ -1,3 +1,5 @@
+/*GENERAL CSS -----------------------------------------------------------------------------*/
+
 #footer{
     /*l'altezza dell'footer è definita in layout.css */
     background-color: var(colore_secondario);
@@ -14,4 +16,10 @@
 
 #made_by_love:hover{
     text-decoration: line-through;
+}
+
+/*DESKTOP CSS -----------------------------------------------------------------------------*/
+/*MOBILE CSS -----------------------------------------------------------------------------*/
+#made_by_love.mobile{
+    font-size: 300%;
 }
