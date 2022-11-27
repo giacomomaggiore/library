@@ -1,13 +1,12 @@
+/*GENERAL CSS ---------------------------------------------------------------------------------------------*/
 #recensione{
     display: flex;
-
 }
 
 #recensione_copertina_div{
     background-color: white;
     /* WIDTH -----------------------------------*/
     width: 40%;
-
 
     display: flex;
     align-items: center;
@@ -22,7 +21,6 @@
 #testo_recensione{
     /* WIDTH -----------------------------------*/
     width: 60%;
-
    
 }
 #testo_recensione_div{
@@ -46,4 +44,26 @@
 
 #recensione_recensione{
     font-size: 160%;
+}
+
+/*---------------------------------------------------------------------------------------------*/
+/*DESKTOP CSS----------------------------------------------------------------------------------*/
+/*MOBILE CSS-----------------------------------------------------------------------------------*/
+#testo_recensione.mobile{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#testo_recensione_div.mobile{
+    width: 80%;
+}
+#recensione_recensione.mobile{
+    font-size: 230%;
+}
+
+
+
+#recensione_copertina_div.mobile{
+    /*non si visualizza il div contentente l'immagine della copertina*/
+    display: none;
 }
