@@ -48,20 +48,43 @@
 
 /*---------------------------------------------------------------------------------------------*/
 /*DESKTOP CSS----------------------------------------------------------------------------------*/
+
 /*MOBILE CSS-----------------------------------------------------------------------------------*/
+#titolo_recensione.mobile{
+    font-size: 370%;
+}
+
+#citazione_recensione.mobile{
+    font-style: italic;
+    font-size: 250%;
+    color: #7A7574;
+
+}
+
+
 #testo_recensione.mobile{
     width: 100%;
     display: flex;
+
+    flex-direction: column;
+    align-items: center;
+
     justify-content: space-around;
 }
 #testo_recensione_div.mobile{
     width: 80%;
+    height: 80%;
+
+    flex-direction: column;
+
+    justify-content: space-around;
 }
 #recensione_recensione.mobile{
     font-size: 230%;
+
+    display: flex;
+    
 }
-
-
 
 #recensione_copertina_div.mobile{
     /*non si visualizza il div contentente l'immagine della copertina*/
