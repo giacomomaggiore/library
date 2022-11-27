@@ -13,7 +13,7 @@ module.exports = [
     {
         titolo: "Tu non sai cos'è la guerra",
         citazione: "Mi vergogno ad ammettere di non avere una casa... L'ho sempre trovato insopportabile, dal giorno in cui siamo fuggite.",
-        recensione: "", //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione: "Da quando è iniziata la guerra in Ucraina siamo bombardati da tragiche notizie provenienti dall'est europa; tuttavia spesso manca il punto di vista di una gran parte della popolazione coinvolta: quella dei bambini. La giovanissima autrice di questo libro, una dodicenne ucraina costretta a scappare dalla propria città per i bombardamenti; racconta ciò che comporta la guerra nel quotidiano per la maggior parte della popolazione: mancanza di cibo, acqua e medicinali; la lontananza da casa e dai parenti ma soprattutto la semplice normalità ormai andata persa: tutto ciò che fino a poco prima dello scoppio del conflitto era dato per scontato ora appare come un sogno che non potrà mai più avverarsi.", 
         punteggio: 4,
         src: "https://www.ibs.it/images/9791221203134_0_536_0_75.jpg",
         link: "https://www.amazon.it/Tu-non-sai-cosè-guerra-ebook/dp/B0BHX12FJZ",
@@ -29,7 +29,7 @@ module.exports = [
     {
         titolo: "What I learned losing a million dollars",
         citazione: "You don't know why the market is going up or down, you just want to know what is doing",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Imparare dai propri insuccessi è la prima regola nell'imprenditoria memoria, eppure è sempre la pratica più difficile da attuare quando si tratta di affrontare un fallimento, soprattutto nel trading, dove ogni giorno milioni di persone scommettono i propri soldi senza un approcio razionale. L'autore parte proprio dalla sua esperienza di trader, inesperto ma fortunato, che attribuiva il merito dei suoi guadagni alle sue abilità e non alla fortuna, portandolo sulla strada della rovina. All'interno del libro viene quindi descritta e analizzata la tipica mentinalità americana legata al business, non mancano tuttavia aneddoti personali, storie legate alla borsa americana e concetti più teorici legati ai bias mentali che ci conducono verso certi comportamenti errati.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/51fGOyjVMlL.jpg",
         link: "https://www.amazon.it/What-Learned-Losing-Million-Dollars/dp/0231164688/ref=sr_1_1?keywords=what+i+learned+losing+a+million+dollars&qid=1666554557&qu=eyJxc2MiOiIwLjQ4IiwicXNhIjoiMC4xMSIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=what+i+learn%2Caps%2C217&sr=8-1",
@@ -69,7 +69,7 @@ module.exports = [
     {
         titolo: "Giocati dal Caso",
         citazione: "Nessuno accetta il caso come causa del proprio successo, ma solo del proprio fallimento.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Nella nostra vita di tutti i giorni siamo così impegnati a pianificare, prevedere e calcolare tutto che diamo poca importanza a ciò che governa le nostre vite: il caso. Un minimo cambiamento può causare conseguenze gigantesche nelle nostre vite; di conseguenza il concetto di probabilità matematica come lo conoscevamo finora diventa inutile per trarre vantaggi dalla volatilità. Taleb di conseguenza, che pur essendo un esperto matematico ed economica non apprezza inutili studi accademici e puramente teorici; invita ad assumere un approcio più empirista, a non confondere le nostre abilità con il caso e a distinguere causalità e casualità.", 
         punteggio: 4,
         src: "https://kbimages1-a.akamaihd.net/07db90c8-5875-48b7-86a0-7d73423973a5/1200/1200/False/giocati-dal-caso-1.jpg",
         link: "https://www.amazon.it/Giocati-caso-ruolo-fortuna-finanza/dp/8842820237/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2C07373FYB580&keywords=giocati+dal+caso&qid=1666554645&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC41MiIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=giocati+dal+cas%2Caps%2C171&sr=8-1",
@@ -77,7 +77,7 @@ module.exports = [
     {
         titolo: "Steve Jobs non abita qui",
         citazione: "Airbnb non è proprio come McDonald's, ma come un avocato toast sostenibile e facilmente replicabile.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "La Silicon Valley viene spesso descritta come il posto di lavoro da sogno, in particolare per tutti i giovani appassionati di innovazione e tecnologia; eppure non è tutto oro quel che luccica. Dietro la California da sogno si cela anche la sua controparte più faticosa, corrotta e illusa di essere sempre nel giusto. Michele Masneri compie un ritratto ironico e inusuale di questa regione che ormai detiene un vero e proprio status symbol e rappresenta un modo di divere invidiato (inspiegabilmente...?) da tutto il mondo.", 
         punteggio: 5,
         src: "https://www.adelphi.it/spool/cover__id8866_w600_t1594807353.jpg&.jpg",
         link: "https://www.amazon.it/Steve-Jobs-non-abita-pi%C3%B9/dp/8845934640/ref=sr_1_1?keywords=steve+jobs+non+abita+pi%C3%B9+qui&qid=1666554659&qu=eyJxc2MiOiIwLjM5IiwicXNhIjoiMC4yMyIsInFzcCI6IjAuMjEifQ%3D%3D&sprefix=steve+j%2Caps%2C178&sr=8-1",
@@ -101,7 +101,7 @@ module.exports = [
     {
         titolo: "Helgoland",
         citazione: "La teoria dei quanti è la migliore descrizione della natura di cui disponiamo oggi.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Se qualcuno dichiara di comprendere la fisica quantistica significa che chi gliel'ha spiegata non si è espresso bene. Lo stesso concetto viene più volte ribadito dall'autore durante la lettura per sottolineare quanto sia controintuiva e difficile questa branca della fisica. Carlo Rovelli tuttavia è in grado di accennarne i concetti fondamentali, a differenza de 'L'Ordine del Tempo' tuttavia, sono richieste alcune conoscenze pregresse e una mentalità abbastanza avvezza al linguaggio scientifico per comprendere i punti chiave della meccanica quantistica. Pur essendo molto complicato nei concetti; il libro utilizza un linguaggio facile e ricorre alla narrazione di divertenti aneddoti storici che ne facilitano la comprensione. ", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/617aCsvbXJL.jpg",
         link: "https://www.amazon.it/Helgoland-Carlo-Rovelli/dp/8845935051/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BWGZ49K45D8E&keywords=helgoland&qid=1666554692&qu=eyJxc2MiOiIwLjkzIiwicXNhIjoiMC40NCIsInFzcCI6IjAuNDEifQ%3D%3D&sprefix=halgola%2Caps%2C224&sr=8-1",
@@ -213,7 +213,7 @@ module.exports = [
     {
         titolo: "Tim Cook",
         citazione: "Non ho mai riconosciuta la mia sessualità pubblicamente. Quindi fatemi essere chiaro: sono fiero di esseregay",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Tim Cook è tutto l'opposto di Steve Jobs: un manager pubblicamente freddo; meno caricasmatico e creativo; senza una mente visionaria come il fondatore della Apple; eppure come mai è stato scelto proprio lui per succedere al geniale fondatore della Apple? Questa biografia cerca di indagarne i motivi partendo dall'infanzia di Cook, i suoi primi incarichi lavorativi e fino a mostrare le ragioni per cui è riusito a far progredire l'eredità di Jobs fino a farla diventare l'azienda  più ricca al mondo. Consiglio di leggere solo questa biografia dopo aver letto quella di Jobs, in modo da poter delinare maggiormente le differenze tra le due personalità, gli stili manageriali e i cambiamenti che vi sono stati sotto la direzione di entrambi.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/419maTdPYrL.jpg",
         link: "https://www.amazon.it/Cook-genio-cambiato-futuro-Apple/dp/8820067609/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MZKCJRYRJQW7&keywords=tim+cook&qid=1666554850&qu=eyJxc2MiOiIxLjMxIiwicXNhIjoiMC45NyIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=tim+co%2Caps%2C284&sr=8-1",
@@ -221,7 +221,7 @@ module.exports = [
     {
         titolo: "Momenti di trascurabile felicità",
         citazione: "Tutte le cose che bisogna fare, mi piace rimandarle, oppure averle già fatte.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Tutti noi abbiamo i nostri intimi momenti di felicità che, in maniera inconsapevole, arricchiscono notevolmente le nostre vite ma di cui spesso ci vergognamo. Prima di leggere questo libro nemmeno ci pensavo, eppure sono queste stupide piccolezze a renderci felici nel quotidiano; non potremmo vivere altrimenti. Non vi resterà nulla di profondo da questa lettura, se non la consapevolezza che questi piccoli momenti esistono e fanno la differenza, perciò non trascurateli e non sottovalutateli. Per  questo libro non voglio far altro che incoraggiarvi a farci caso, tenere traccia di questi momenti, rileggerli quando siete annoiaiti e, quanto ne avete la possibilità, di condividerli con le persone che preferite.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61u6kJLydPL.jpg",
         link: "https://www.amazon.it/Momenti-trascurabile-felicit%C3%A0-Francesco-Piccolo/dp/8806219650/ref=sr_1_1?keywords=momenti+di+trascurabile+felicit%C3%A0&qid=1666554860&qu=eyJxc2MiOiIwLjgwIiwicXNhIjoiMC40MiIsInFzcCI6IjAuNDkifQ%3D%3D&sprefix=momenti+di+tr%2Caps%2C256&sr=8-1",
