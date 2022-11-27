@@ -3,7 +3,7 @@
 
 module.exports = [
     {
-        titolo: "The rise of Ultrarunner",
+        titolo: "The Rise of Ultrarunner",
         citazione: "'Why do you run?' 'It's the closest thing to flying'",
         recensione: "Le maratone non sono più abbastanza, la nuova frontiera del running verte sul correre per ore, se non giorni, in condizioni ambientali e climatiche avverse, 'solo' per piacere e soddisfazione personale. Che cosa spinge questi atleti a massacrare il loro corpo per raggiungere questa realizzazione personale? Che cosa spinege una persona a correre centinaia di kilometri a settimana e a fare il giro del Monte Bianco di corsa in meno di un giorno? L'autore del libro per capirlo si è messo nei panni di uno di loro, iniziando a praticare questo sport quasi da zero: oltre a intervistare gli sportivi più esperti in questo mondo, Adharanand Finn offre dei pratici consigli per chi desidera avvicinarsi a questo mondo o semplicemente vuole iniziare a correre.",
         punteggio: 5,

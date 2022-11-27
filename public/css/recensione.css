@@ -51,7 +51,7 @@
 
 /*MOBILE CSS-----------------------------------------------------------------------------------*/
 #titolo_recensione.mobile{
-    font-size: 370%;
+    font-size: 430%;
 }
 
 #citazione_recensione.mobile{
@@ -81,7 +81,7 @@
     justify-content: space-around;
 }
 #recensione_recensione.mobile{
-    font-size: 230%;
+    font-size: 270%;
 
     display: flex;
     
