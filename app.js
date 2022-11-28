@@ -71,11 +71,6 @@ app.get("/3", function(req,res){
         libro : data[3]
     })
 })
-app.get("/3", function(req,res){
-    res.render("recensione", {
-        libro : data[3]
-    })
-})
 app.get("/4", function(req,res){
     res.render("recensione", {
         libro : data[4]
@@ -211,11 +206,6 @@ app.get("/30", function(req,res){
         libro : data[30]
     })
 })
-app.get("/30", function(req,res){
-    res.render("recensione", {
-        libro : data[30]
-    })
-})
 app.get("/31", function(req,res){
     res.render("recensione", {
         libro : data[31]
@@ -248,7 +238,7 @@ app.get("/36", function(req,res){
 })
 app.get("/37", function(req,res){
     res.render("recensione", {
-        libro : data[38]
+        libro : data[37]
     })
 })
 app.get("/38", function(req,res){
@@ -271,9 +261,6 @@ app.get("/41", function(req,res){
         libro : data[41]
     })
 })
-
-
-
 app.get("/42", function(req,res){
     res.render("recensione", {
         libro : data[42]
@@ -284,11 +271,7 @@ app.get("/43", function(req,res){
         libro : data[43]
     })
 })
-app.get("/44", function(req,res){
-    res.render("recensione", {
-        libro : data[44]
-    })
-})
+
 
 
 

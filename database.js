@@ -91,14 +91,6 @@ module.exports = [
         link: "https://www.amazon.it/vera-storia-genio-fondato-McDonalds%C2%AE/dp/B07D4ZPJL9/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UM8TB4N0M2FL&keywords=la+vera+storia+del+genio&qid=1666554671&qu=eyJxc2MiOiIwLjc4IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=la+vera+storia+del+genio%2Caps%2C191&sr=8-1",
     },
     {
-        titolo: "La Sostanza Instabile",
-        citazione: "“Qualcosa è esploso”. Loro sono i terroristi, quasi sicuramente islamici. ",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 3,
-        src: "https://www.giulioperroneditore.com/wp-content/uploads/2021/06/copertina_lombezzi_min.jpg",
-        link: "https://www.amazon.it/sostanza-instabile-Giulia-Lombezzi/dp/8860045703/ref=sr_1_1?keywords=la+sostanza+instabile&qid=1666554682&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=la+sostanza+ins%2Caps%2C201&sr=8-1",
-    },
-    {
         titolo: "Helgoland",
         citazione: "La teoria dei quanti è la migliore descrizione della natura di cui disponiamo oggi.",
         recensione : "Se qualcuno dichiara di comprendere la fisica quantistica significa che chi gliel'ha spiegata non si è espresso bene. Lo stesso concetto viene più volte ribadito dall'autore durante la lettura per sottolineare quanto sia controintuiva e difficile questa branca della fisica. Carlo Rovelli tuttavia è in grado di accennarne i concetti fondamentali, a differenza de 'L'Ordine del Tempo' tuttavia, sono richieste alcune conoscenze pregresse e una mentalità abbastanza avvezza al linguaggio scientifico per comprendere i punti chiave della meccanica quantistica. Pur essendo molto complicato nei concetti; il libro utilizza un linguaggio facile e ricorre alla narrazione di divertenti aneddoti storici che ne facilitano la comprensione. ", 
