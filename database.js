@@ -229,18 +229,10 @@ module.exports = [
     {
         titolo: "Fahreneith 451",
         citazione: "Un libro è una pistola carica.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Che cosa succede se unite il significato politico di un libro e un scritto in stile 1984 alla George Orwell? Un romanzo ambientato in un futuro distopico che non ha nulla di invidiare al capolavoro di George Orwell ma che anzi, sotto certi punti di vista, ne è addirittura superiore. La trama dietro Fahreneit 451 è sicuramente meno romantica, ma allo stesso è più dinamica, incalzante e si concentra meno nella descrizione del regime totalitario sotto cui è ambientata la storia. Ne risulta una scrittura a cui è molto più facile farsi appassionare, la lettura scorre velocemente, nonostante il clima politico pesante caratteristico del romanzo e l'assurdità del contesto; ed è quasi esilerante per la presenza di situazioni tragi-comiche che spezzano la narrazione. ", 
         punteggio: 4,
         src: "https://upload.wikimedia.org/wikipedia/en/d/db/Fahrenheit_451_1st_ed_cover.jpg",
         link: "https://www.amazon.it/Fahrenheit-451-Ray-Bradbury/dp/8804665297/ref=sr_1_1?keywords=fahrenheit+451&qid=1666554880&qu=eyJxc2MiOiIxLjYwIiwicXNhIjoiMC45MiIsInFzcCI6IjAuOTIifQ%3D%3D&sprefix=fahren%2Caps%2C399&sr=8-1",
-    },
-    {
-        titolo: "Il Grande Gatsby",
-        citazione: "La trovai sdraiata sul letto nel suo vestito a fiori bella come una notte di giugno e ubriaca come una scimmia",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 3,
-        src: "https://m.media-amazon.com/images/I/41y-+nsBaRL.jpg",
-        link: "https://www.amazon.it/grande-Gatsby-Francis-Scott-Fitzgerald/dp/8807900238/ref=sr_1_2?keywords=il+grande+gatsby&qid=1666554891&qu=eyJxc2MiOiIzLjY2IiwicXNhIjoiMi43OCIsInFzcCI6IjIuNzkifQ%3D%3D&sprefix=il+gra%2Caps%2C286&sr=8-2",
     },
     {
         titolo: "L'unica regola è che non ci sono regole",
