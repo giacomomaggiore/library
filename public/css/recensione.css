@@ -44,6 +44,8 @@
 
 #recensione_recensione{
     font-size: 1.3vw;
+
+    line-height: 150%;
 }
 
 /*---------------------------------------------------------------------------------------------*/
@@ -81,7 +83,7 @@
     justify-content: space-around;
 }
 #recensione_recensione.mobile{
-    font-size: 2.2vh;
+    font-size: 3.5vw;
 
     display: flex;
     
