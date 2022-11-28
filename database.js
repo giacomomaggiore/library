@@ -259,14 +259,6 @@ module.exports = [
         link: "https://www.amazon.it/New-York-finestra-senza-tende/dp/8858130421/ref=sr_1_1?keywords=new+york+%C3%A8+una+finestra+senza+tende&qid=1666554917&qu=eyJxc2MiOiIwLjI5IiwicXNhIjoiMC4wOCIsInFzcCI6IjAuMjMifQ%3D%3D&sprefix=new+york+%C3%A8%2Caps%2C231&sr=8-1",
     },
     {
-        titolo: "Norvegian Wood",
-        citazione: "Prendere le cose sul serio non sempre significa avvicinarsi alla verità",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 4,
-        src: "https://m.media-amazon.com/images/I/81RARTnoWjL.jpg",
-        link: "https://www.amazon.it/Norwegian-wood-Tokyo-Haruki-Murakami/dp/8806216465/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2V9SV1H7Y2LDY&keywords=norwegian+wood&qid=1666554930&qu=eyJxc2MiOiIxLjM2IiwicXNhIjoiMC44NyIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=norveg%2Caps%2C372&sr=8-1",
-    },
-    {
         titolo: "The Hate u Give",
         citazione: "Thug Life stood for 'The Hate U Give Little Infants Fucks Everybody'",
         recensione : "Dopo l'omicidio di George Floyd del 2020 il movimento 'Black Lives Matter' ha guadagnato ancora più visibilità, per me il modo migliore per avvicinarsi a queste tematiche è stato leggere questo romanzo inverosimile, in cui l'oppressione razziale e i pregiudizi a cui sono ancora sottopostem molte persone di colore sono raccontati dal punto di vista di una giovane ragazza, talvolta incapace di comprendere e quasi ingenua di fronte alle situazioni paradossali che si trova ad affrontare per via delle sue origini. Leggere questo libro in lingua originale è stato sicuramente un valore aggiunto: mi ha permesso di immergermi, grazie allo 'slang' e ai modi di fare descritti; nella vita del protagonist e nel contesto sociale in cui è ambientato il romanzo.", 
