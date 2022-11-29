@@ -16,6 +16,8 @@
 
 #made_by_love:hover{
     text-decoration: line-through;
+    filter: invert(100%);
+
 }
 
 /*DESKTOP CSS -----------------------------------------------------------------------------*/

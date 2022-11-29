@@ -25,6 +25,8 @@
 
 #titolo_header:hover{
     text-decoration: line-through;
+    filter: invert(100%);
+
 }
 
 /* INSTAGRAM LOGO AND LINK---------------------------------------------------------------- */
@@ -70,4 +72,8 @@ CHE NON FACCIA EFFETTO GLITCH DURANTE IL CARICAMENTO DELLA PAGINA*/
 
 #instagram_logo.mobile{
     height: 40%;
+}
+
+#instagram_logo:hover{
+    filter: invert(100%);
 }

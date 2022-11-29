@@ -83,6 +83,14 @@ module.exports = [
         link: "https://www.amazon.it/Giocati-caso-ruolo-fortuna-finanza/dp/8842820237/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2C07373FYB580&keywords=giocati+dal+caso&qid=1666554645&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC41MiIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=giocati+dal+cas%2Caps%2C171&sr=8-1",
     },
     {
+        titolo: "CARCHITECTURE - Houses with horsepower",
+        citazione: "Homes should be built in factories similar to those for automobiles",
+        recensione : "Che cosa c'entra Le Corbusier con l'azienda automobilistica SAAB? CARCHITECTURE non cerca di rispondere a questa domanda in modo approfondito e tecnico, eppure riesce a mettere a confronto due mondi che spesso non sono mai accostati: l'architettura e le automobili. Non aspettatevi però un'analisi del rapporto tra queste due; prendete il libro per quello che è: una semplice ma piacevole raccolta di scatti che ritraggono architetture e macchine che, per la loro storia, per il loro stile o semplicemente per i loro proprietari; sono collegate.", 
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/41SfoJBKnNL.jpg",
+        link: "https://www.amazon.it/Carchitecture-Houses-Horsepower-Thijs-Demeulemeester/dp/9401461031",
+    },
+    {
         titolo: "Steve Jobs non abita qui",
         citazione: "Airbnb non è proprio come McDonald's, ma come un avocato toast sostenibile e facilmente replicabile.",
         recensione : "La Silicon Valley viene spesso descritta come il posto di lavoro da sogno, in particolare per tutti i giovani appassionati di innovazione e tecnologia; eppure non è tutto oro quel che luccica. Dietro la California da sogno si cela anche la sua controparte più faticosa, corrotta e illusa di essere sempre nel giusto. Michele Masneri compie un ritratto ironico e inusuale di questa regione che ormai detiene un vero e proprio status symbol e rappresenta un modo di divere invidiato (inspiegabilmente...?) da tutto il mondo.", 
@@ -338,14 +346,7 @@ module.exports = [
         src: "https://www.ibs.it/images/9788822707475_0_536_0_75.jpg",
         link: "https://www.amazon.it/scorretto-efficace-liberarsi-irritanti-problemi/dp/8822707451/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
     },
-    {
-        titolo: "CARCHITECTURE - Houses with horsepower",
-        citazione: "Homes should be built in factories similar to those for automobiles",
-        recensione : "Che cosa c'entra Le Corbusier con l'azienda automobilistica SAAB? CARCHITECTURE non cerca di rispondere a questa domanda in modo approfondito e tecnico, eppure riesce a mettere a confronto due mondi che spesso non sono mai accostati: l'architettura e le automobili. Non aspettatevi però un'analisi del rapporto tra queste due; prendete il libro per quello che è: una semplice ma piacevole raccolta di scatti che ritraggono architetture e macchine che, per la loro storia, per il loro stile o semplicemente per i loro proprietari; sono collegate.", 
-        punteggio: 4,
-        src: "https://m.media-amazon.com/images/I/41SfoJBKnNL.jpg",
-        link: "https://www.amazon.it/Carchitecture-Houses-Horsepower-Thijs-Demeulemeester/dp/9401461031",
-    },
+    
 
 
 
