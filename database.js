@@ -3,6 +3,14 @@
 
 module.exports = [
     {
+        titolo: "The Way of the runner",
+        citazione: "The purpose of training is not health or strenght, but forging the soul",
+        recensione: "Il Giappone ha sempre avuto una modo di vivere totalmente estraneo a quello occidentale, nel running tuttavia queste differenze culturalisono portate all'estremo. Nella terra del sol levante infatti la corsa è uno degli sport più amati e seguiti in TV; i ragazzi frequentano team scolastici di atletica fin da giovani; le gare a staffetta sulle lunghe distanze, i cosìdetti ekiden; sono considerate gli eventi dell'anno; eppure tra tutti i campioni olimpici del fondo e del mezzofondo raramente spicca un orientale. L'autore del libro, un runner inglese che inizia ad allenarsi seguendo le metologie e i ritmi giapponesi, cerca di risolvere questo mistero; scoprendo le passioni, le motivazioni e le contraddizioni dietro al fenomeno sociale del running in Giappone. ",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/812l4+GDnCL.jpg",
+        link: "https://www.amazon.it/Way-Runner-journey-Japanese-running-ebook/dp/B00SEU8848",
+    },
+    {
         titolo: "The Rise of Ultrarunner",
         citazione: "'Why do you run?' 'It's the closest thing to flying'",
         recensione: "Le maratone non sono più abbastanza, la nuova frontiera del running verte sul correre per ore, se non giorni, in condizioni ambientali e climatiche avverse, 'solo' per piacere e soddisfazione personale. Che cosa spinge questi atleti a massacrare il loro corpo per raggiungere questa realizzazione personale? Che cosa spinege una persona a correre centinaia di kilometri a settimana e a fare il giro del Monte Bianco di corsa in meno di un giorno? L'autore del libro per capirlo si è messo nei panni di uno di loro, iniziando a praticare questo sport quasi da zero: oltre a intervistare gli sportivi più esperti in questo mondo, Adharanand Finn offre dei pratici consigli per chi desidera avvicinarsi a questo mondo o semplicemente vuole iniziare a correre.",
@@ -133,7 +141,7 @@ module.exports = [
     {
         titolo: "Il Cigno Nero",
         citazione: "Perchè ci ostiniamo a pianificare il futuro quando le nostre vite vengono modificate dall'ignoto?",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Un Cigno Nero non è altro che un evento unico, raro, inspiegabile a priori e che che genera un impatto enorme sulla società. Secondo Taleb sono questi fatti a governare la realtà in cui viviamo e, a causa della loro estrema indeterminatezza; tutti gli studi probabilistici e legati al rischio diventano inutili. Lo scrittore consiglia quindi di cambiare totalmente prospettiva: piuttosto che cercare di prevedere questi episodi; è meglio mettersi in una posizione in modo da poter trarre vantaggi dall'alta volalitità in cui siamo immersi. Applicare queste strategie nella vita quotidiana, eppure l'esperienza di Taleb dimostr che, soprattutto in ambito finanziario e lavorativo; la volatilità e i cambiamenti inaspettati e repentini possono portare numerosi vantaggi se affrontati correttamente.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61rsVxQlXIL.jpg",
         link: "https://www.amazon.it/cigno-nero-limprobabile-governa-nostra/dp/884282027X/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HWYIG0PARQ2W&keywords=il+cigno+nero&qid=1666554745&qu=eyJxc2MiOiIwLjc5IiwicXNhIjoiMC40MiIsInFzcCI6IjAuNTAifQ%3D%3D&sprefix=il+cigno+ne%2Caps%2C177&sr=8-1",
@@ -157,7 +165,7 @@ module.exports = [
     {
         titolo: "Allegro Occidentale",
         citazione: "....E scoprì che i cinesi vedono gli occidentali tutti allo stesso modo.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Il modo in cui noi occidentali viaggiamo è del tutto tragi-comico. Ce lo insegna Francesco Piccolo con questo breve, esilerante e divertente romanzo, all'interno di cui viene raccontato il viaggio di un gruppo di benestanti e 'ingenui' europei alla scoperta di un mondo che è ben diverso da come se lo immaginano. Assumendo un punto di vista differente comprendiamo infatti che la maggior parte delle volte che visitiamo un posto nuovo stiamo vedendo solamente quello che ci aspettiamo di trovare, non la verità riguardo la località; come se le nostre aspettative riguardo un contesto lontanissimo da noi dovessero necessariamente rispecchiare l'autenticità del luogo", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/61H+Jg0kL+L.jpg",
         link: "https://www.amazon.it/Allegro-occidentale-Francesco-Piccolo/dp/8806227599/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2W7YH4X10OS88&keywords=allegro+occidentale&qid=1666554781&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=allegro+occidental%2Caps%2C176&sr=8-1il ",
@@ -165,7 +173,7 @@ module.exports = [
     {
         titolo: "Il metodo Warren Buffet",
         citazione: "Ciò che mi preoccupa di più è la mcnanza di fiducia negli investimenti a lungo termine.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Il libro, considerato da tutti il Sacro Graal della letteratura finanziaria, tramite il racconto della vita di Buffet; descrive la sua vincente strategia di investimento. Le metodologie presentate nel libro non sono tuttavia spendili da tutti nel breve periodo; si può però cambiare forma mentis riguardo questo settore, assumendo una mentalità molto più saggia, improntata sul lungo termine, sul valore di un'azienda e che punta a investire su ciò che realmente si conosce. Gli investimenti di Buffet prevedono infatti un orizzonte di tempo spesso superiore al decennio, si concentrato esclusivamente sulle aziende il cui business model sia facilmente comprensibile e sono sempre il risultato di un'analisi razionale e basata sul presente. ", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/51q-meCl8VL.jpg",
         link: "https://www.amazon.it/metodo-Warren-Buffett-segreti-investitore/dp/8820362716/ref=sr_1_1?keywords=il+metodo+warren+buffett&qid=1666554796&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMC44NyIsInFzcCI6IjAuNjgifQ%3D%3D&sprefix=il+metodo+w%2Caps%2C160&sr=8-1",
