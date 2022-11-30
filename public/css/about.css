@@ -31,3 +31,7 @@ layout.css
     text-decoration: line-through;
 }
 
+
+#about.mobile{
+    font-size: 140%;
+}

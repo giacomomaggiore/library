@@ -57,6 +57,19 @@ body, html{
 #recensione{
     height: 75%;
 }
+/* -------------------------------------------------------------*/
+/* METTERE SOLO LE ALTEZZE DI HEADER, ABOUT, FOOTER E RECENSIONE*/
+ 
+#about.mobile{
+    height: 78%;
+}
+#footer.mobile{
+    height: 7%;
+}
+#recensione.mobile{
+    height: 78%;
+}
+/* ----------------------------------------------------------------*/
 
 a {
     color: inherit;
