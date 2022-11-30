@@ -1,5 +1,3 @@
-//MAX LEN citazione
-//Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates, repellat inventore necessitatibu
 
 module.exports = [
     {
@@ -117,7 +115,7 @@ module.exports = [
     {
         titolo: "Una Terra Promessa",
         citazione: "Ero diventato un politico. E nemmeno troppo bravo.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "L'ex Presidente degli Stati Uniti, ormai lontano dal potere politico, riesce a raccontare intimamente e sinceramente il percorso che lo ha portato alla Casa Bianca. Pur concentrandosi sugli anni di Governo, non mancano le vicende legate alla sua giovinezza e le scelte che lo hanno condotto fino alle primarie; anche se, per una lettore non americano come me, questi capitoli del libro sono risultati meno densi di valore e talvolta quasi noiosi. Le riflessioni sul suo periodo di Presidente conferiscono invece diversi spunti, sia per tutte le volte in cui l'autore compie un passo indietro rispetto alle sue decisioni passate che per tutti i momenti in cui le scelte e i progetti di un solo uomo hanno determinato grandi conseguenze internazionalmente. ", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71W0kAoWW4L.jpg",
         link: "https://www.amazon.it/Una-terra-promessa-Barack-Obama/dp/8811149878/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VVVS5PA89EES&keywords=una+terra+promessa&qid=1666554702&qu=eyJxc2MiOiIxLjkwIiwicXNhIjoiMS42NCIsInFzcCI6IjAuNTcifQ%3D%3D&sprefix=una+terra+promess%2Caps%2C237&sr=8-1",
@@ -141,7 +139,7 @@ module.exports = [
     {
         titolo: "I Principi del Successo",
         citazione: "Confidate nella verità a tutti i costi e nella trasparenza estrema",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Ray Dalio è uno degli investitori più di successo degli ultimi anni; eppure i principi alla base degli alti rendimenti del suo fondo di investimento, Bridgewater associates, possono essere applicati a ogni aspetto della nostra vita. Il metodo di Ray Dalio infatti presuppone che, invece di agire sulla base di regole a seconda della situazione, si costruisca un 'sistema' di valori, procedure e metodi di organizzarsi da poter applicare a ogni ambito in cui si lavori. Oltre a formare una determinata 'forma mentis' interdisciplinare, l'autore insegna ad analizzare il ruolo della ciclità in ogni fenomeno: per imparare al meglio dal passato è necessario saper applicare e confrontare pattern già avvenuti per comprendere in che fase di un determinato evento ci si trovi.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71LyvaUH80L.jpg",
         link: "https://www.amazon.it/principi-del-successo-Ray-Dalio/dp/8820385716/ref=sr_1_1?keywords=i+principi+del+successo+ray+dalio&qid=1666554733&qu=eyJxc2MiOiIxLjI4IiwicXNhIjoiMC44MSIsInFzcCI6IjAuOTEifQ%3D%3D&sprefix=i+principi+del+%2Caps%2C208&sr=8-1",
@@ -185,27 +183,11 @@ module.exports = [
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/51q-meCl8VL.jpg",
         link: "https://www.amazon.it/metodo-Warren-Buffett-segreti-investitore/dp/8820362716/ref=sr_1_1?keywords=il+metodo+warren+buffett&qid=1666554796&qu=eyJxc2MiOiIxLjQ0IiwicXNhIjoiMC44NyIsInFzcCI6IjAuNjgifQ%3D%3D&sprefix=il+metodo+w%2Caps%2C160&sr=8-1",
-    },
-    {
-        titolo: "Lo zen e l'arte di manutenzione della motocicletta",
-        citazione: "Vivere soltanto in funzione di una meta futura è sciocco. È sui fianchi delle montagne, e non sulla cima, che si sviluppa la vita",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 5,
-        src: "https://m.media-amazon.com/images/I/41q9GMGWmeL.jpg",
-        link: "https://www.amazon.it/zen-larte-della-manutenzione-motocicletta/dp/8845907341/ref=sr_1_1?keywords=lo+zen+e+l+arte+della+manutenzione+della+motocicletta&qid=1666554806&qu=eyJxc2MiOiIwLjg0IiwicXNhIjoiMC4zNyIsInFzcCI6IjAuNDQifQ%3D%3D&sprefix=lo+zen+e%2Caps%2C141&sr=8-1",
-    },
-    {
-        titolo: "Prima persona singolare",
-        citazione: "Cambiando l’esposizione dei raggi del sole, l’ombra diventa luce, la luce diventa ombra. Il positivo diventa negativo, e viceversa",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 3,
-        src: "https://www.ibs.it/images/9788806248284_0_536_0_75.jpg",
-        link: "https://www.amazon.it/Prima-persona-singolare-Haruki-Murakami/dp/8806248286/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=CU10USRP3RTQ&keywords=prima+persona+singolare&qid=1666554817&qu=eyJxc2MiOiIwLjQyIiwicXNhIjoiMC4xOCIsInFzcCI6IjAuMjEifQ%3D%3D&sprefix=prima+persona+singolar%2Caps%2C214&sr=8-1",
-    },
+    },  
     {
         titolo: "Homo Sapiens",
         citazione: "Siamo dei che si sono fatti da sè.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Il sottotitolo di questo libro cita 'Breve Storia dell'Umanità', ciò tuttavia non dovrebbe far pensare che ci si concentri sul passato della nostra specie. Harari è tuttavia in grado di analizzare il ruolo dell'uomo nel presente in cui viviamo, confrontando le nostre società con quelle antiche, descrivendo il funzionamento di alcuni aspetti della nostra vita più complessi a causa della grande innovazione a cui siamo costantemente esposti e offrendo molte chiavi di lettura e speculazione per un futuro a medio-breve termine. Non mancano inoltre piccole storie o vicende per approfondire l'argomento, non si tratta di un saggio puramente teorico; il rischio dell'autore è tuttavia di sembrare troppo 'prolisso' nell'esposizione delle proprie tesi. ", 
         punteggio: 5,
         src: "https://www.ibs.it/images/9788845296499_0_536_0_75.jpg",
         link: "https://www.amazon.it/Sapiens-animali-Breve-storia-dellumanit%C3%A0/dp/8845296490/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WEI089GNRYD0&keywords=homo+sapiens&qid=1666554827&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi40MCIsInFzcCI6IjIuMzYifQ%3D%3D&sprefix=homo+sapien%2Caps%2C161&sr=8-1",
@@ -213,7 +195,7 @@ module.exports = [
     {
         titolo: "Da zero a uno",
         citazione: "Il monopolio è la condizione di ogni business di successo",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "Da più di vent'anni il cambiamento e l'innovazione sono in mano a delle start-up, Peter Thiel, già fondatore di Paypal e investitore precoce di Facebook e SpaceX, racconta con un linguaggio tecnico, senza frontoli e accessibile a tutti il processo dietro la nascita e la crescita di un'azienda altamente innovativa. Tramite l'analisi di alcuni case studies della Silicon Valley, è possibile infatti apprendere tutte le similarità tra gli esempi di successo nel settore, permettendo di stilare una lista di buone pratiche per evitare al meglio il fallimento di un'azienda ancora in via di sviluppo.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/71smRBsS57L.jpg",
         link: "https://www.amazon.it/segreti-startup-ovvero-costruisce-futuro/dp/8817080462/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GMFO4F75D74D&keywords=da+zero+a+uno&qid=1666554841&qu=eyJxc2MiOiIxLjI5IiwicXNhIjoiMC44OCIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=da+zero+a+%2Caps%2C222&sr=8-1",
@@ -253,18 +235,10 @@ module.exports = [
     {
         titolo: "L'unica regola è che non ci sono regole",
         citazione: "Non c'è nessuna politica. Usa il buon senso. Agisci nell'interesse di Netflix.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        recensione : "La più grande 'non-regola' di Netflix è che ai dipendenti sono concesse ferie illimitate. Molte persone potrebbero di conseguenza pensare che i lavoratori spendono molto tempo in vacanza fuori ufficio; eppure, non solo questo non si verifica, ma i dipendenti dell'azienda intrattenitiva sono più responsabili e fedeli che mai. I fondatori di Netflix spiegano infatti come sono riusciti a creare un ambiente in cui i controlli e le regole sono quasi assenti, in cui il lavoratore è libero di agire come preferisce e ciò nonostante, dove i dipendenti si comportano mettendo gli interessi della società al primo posto. Tutto ciò si ottiene solo in un modo secondo gli autori: aumentando il talendo in azienda, governando tramite principi e non regole e offrendo vantaggi e stipendi molto alti ai propri dipendenti.", 
         punteggio: 4,
         src: "https://m.media-amazon.com/images/I/41aRXSNYHJL.jpg",
         link: "",
-    },
-    {
-        titolo: "Le tre del mattino",
-        citazione: "Si è fatto tardi molto presto.",
-        recensione : "", /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        punteggio: 4,
-        src: "https://www.einaudi.it/content/uploads/2017/10/978880623607HIG.JPG",
-        link: "https://www.amazon.it/tre-del-mattino-Gianrico-Carofiglio/dp/8806240706/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3IFRRP04A4TBT&keywords=le+tre+del+mattino&qid=1666554906&qu=eyJxc2MiOiIwLjQ1IiwicXNhIjoiMC4xNyIsInFzcCI6IjAuMjIifQ%3D%3D&sprefix=le+tre+del+matt%2Caps%2C295&sr=8-1",
     },
     {
         titolo: "New York è una città senza tende",
