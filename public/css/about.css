@@ -13,8 +13,11 @@ layout.css
 
 
     
-
 }
+.titoli_about{
+    font-size: 3.5vh;
+}
+
 #testo_about{
     width: 80%;
 
@@ -34,4 +37,7 @@ layout.css
 
 #about.mobile{
     font-size: 140%;
+}
+.titoli_about.mobile{
+    font-size: 160%;
 }
