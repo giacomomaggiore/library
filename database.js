@@ -3,9 +3,9 @@ module.exports = [
     {
         titolo: "Kitchen Confidential",
         citazione: "Mi piace pensare che la cucina sia un'arte e un buon cuoco sia un artigiano.",
-        recensione: "Al giorno d’oggi gli chef stellati hanno assunto la reputazione e le attenzioni che prima spettavano ad attori famosi, vincenti sportivi e famosi uomini dello spettaccolo, Bourdain tuttavia, tramite la sua autobiografia composta da momenti di crisi personali, difficoltà lavorative e problematiche relazionali; svela i retroscena e i segreti più vergognosi dietro la carriera da cuoco, mettendone in luce le grandi fatiche, i sacrifici necessari e l’ambiente corrotto, meschino e estremamente aggressivo che si crea dietro le porte delle grandi cucine. Nel libro sono inoltre presenti numerosi dettagli e aneddoti riguardo questo settore, tra cui alcuni consigli riguardo come comportarsi al ristorante e qualche suggerimento per accrescere le proprie abilità culinarie.",
+        recensione: "Al giorno d’oggi gli chef stellati hanno assunto la reputazione e le attenzioni che prima spettavano ad attori famosi; vincenti sportivi e famosi uomini dello spettaccolo, Bourdain tuttavia, tramite la sua autobiografia composta da momenti di crisi personali, difficoltà lavorative e problematiche relazionali; svela i retroscena e i segreti più vergognosi dietro la carriera da cuoco, mettendone in luce le grandi fatiche, i sacrifici necessari e l’ambiente corrotto, meschino e estremamente aggressivo che si crea dietro le porte delle grandi cucine. Nel libro sono inoltre presenti numerosi dettagli e aneddoti riguardo questo settore, tra cui alcuni consigli riguardo come comportarsi al ristorante e qualche suggerimento per accrescere le proprie abilità culinarie.",
         punteggio: 3,
-        src: "https://m.media-amazon.com/images/I/51h+XSRw5dL._SY344_BO1,204,203,200_.jpg",
+        src: "https://m.media-amazon.com/images/I/51h+XSRw5dL._SX323_BO1,204,203,200_.jpg",
         link: "https://www.amazon.it/Kitchen-confidential-Avventure-gastronomiche-York/dp/8807880296/ref=asc_df_8807880296/?tag=googshopit-21&linkCode=df0&hvadid=194921532888&hvpos=&hvnetw=g&hvrand=17872928403621149485&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-82819613820&psc=1",
     },
     {
