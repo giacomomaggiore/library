@@ -51,6 +51,7 @@ RICORDARSI DI INIZIARE A CONTARE DA 0, i multipli di 6 saranno quindi:
 
 
 
+
 app.get("/0", function(req,res){
     res.render("recensione", {
         libro : data[0]
@@ -269,6 +270,11 @@ app.get("/42", function(req,res){
 app.get("/43", function(req,res){
     res.render("recensione", {
         libro : data[43]
+    })
+})
+app.get("/44", function(req,res){
+    res.render("recensione", {
+        libro : data[44]
     })
 })
 
