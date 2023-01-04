@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Running with Kenyans",
+        citazione: "Run, eat, sleep. Repeat. All days.",
+        recensione: "Che cosa rende i corridori keniani i migliori al mondo? Finn Adharanand cerca di scoprirlo adottanto per sei mesi lo stile di vita e le routine di allenamento di uno di loro trasferendosi a Iten, città nella campagna keniana. L'autore finisce quindi per scoprire che in realtà non c'è un segreto alla base del successo dei keniani: non si tratta di genetica, nè di altitudine o alimentazione: un mix di fattori culturali, sociali e ambientali impossibile da replicare altrove ha infatti creato le condizioni per rendere il kenya la miglior nazione per il mezzofondo; tanto che, ogni anno, atleti amatoriali e olimpionici giungono nel paese per perfezionare il proprio allenamento e imparare di più riguardo la corsa.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/81icwj+1xLL.jpg",
+        link: "https://www.amazon.it/Running-Kenyans-Discovering-secrets-fastest/dp/0571274064/ref=asc_df_0571274064/?tag=googshopit-21&linkCode=df0&hvadid=194919198139&hvpos=&hvnetw=g&hvrand=12657065707127879253&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008914&hvtargid=pla-138283191195&psc=1",
+    },
+    {
         titolo: "Kitchen Confidential",
         citazione: "Mi piace pensare che la cucina sia un'arte e un buon cuoco sia un artigiano.",
         recensione: "Al giorno d’oggi, agli chef stellati sono riservate attenzioni e reputazione che prima spettavano ad attori famosi, vincenti sportivi e famosi uomini dello spettacolo; Bourdain tuttavia, attraverso la sua autobiografia composta da momenti di crisi personali, difficoltà lavorative e problematiche relazionali, svela i retroscena e i segreti meno dicibili della carriera da cuoco, mettendone in luce le grandi fatiche, i sacrifici necessari e l’ambiente corrotto, meschino ed estremamente aggressivo che si nasconde dietro le porte delle grandi cucine. Nel libro sono inoltre presenti numerosi dettagli e aneddoti sul settore, tra cui non mancano anche alcuni consigli su come comportarsi al ristorante e qualche suggerimento per accrescere le proprie abilità in cucina.",
