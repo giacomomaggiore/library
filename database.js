@@ -1,7 +1,7 @@
 
 module.exports = [
     {
-        titolo: "Running with Kenyans",
+        titolo: "Running with the Kenyans",
         citazione: "Run, eat, sleep. Repeat. All days.",
         recensione: "Che cosa rende i corridori keniani i migliori al mondo? Finn Adharanand cerca di scoprirlo adottanto per sei mesi lo stile di vita e le routine di allenamento di uno di loro trasferendosi a Iten, città nella campagna keniana. L'autore finisce quindi per scoprire che in realtà non c'è un segreto alla base del successo dei keniani: non si tratta di genetica, nè di altitudine o alimentazione: un mix di fattori culturali, sociali e ambientali impossibile da replicare altrove ha infatti creato le condizioni per rendere il kenya la miglior nazione per il mezzofondo; tanto che, ogni anno, atleti amatoriali e olimpionici giungono nel paese per perfezionare il proprio allenamento e imparare di più riguardo la corsa.",
         punteggio: 4,
