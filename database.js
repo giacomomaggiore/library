@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Questa è l'America",
+        citazione: "Gli Stati Uniti oggi sono come una macchina formidabile che procede a tutta velocità sbandando in continuazione.",
+        recensione: "Francesco Costa in otto brevi capitoli sfata e conferma parecchi miti riguardanti gli States; senza risparmiare critiche ma dispensando elogi alla nazione che da ormai quasi un secolo detta i ritmi dell'economia mondiale e produce la maggior parte della cultura contemporanea. Vengono affrontate con obiettività molte tematiche controverse riguardanti gli USA: i problemi legati all'ambiente, l'ambia diffusione delle armi da fuoco, l'abuso di farmaci ed eroina; legando tuttavia queste tematiche a una delle più grandi crisi degli ultimi anni: la forte polarizzazione e radicalizzazione politica che gli americani stanno vivendo.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/610tVsgSMCS.jpg",
+        link: "https://www.amazon.it/Questa-lAmerica-Storie-capire-presente/dp/8804734337",
+    },
+    {
         titolo: "Running with the Kenyans",
         citazione: "Run, eat, sleep. Repeat. All days.",
         recensione: "Che cosa rende i corridori keniani i migliori al mondo? Finn Adharanand cerca di scoprirlo adottanto per sei mesi lo stile di vita e le routine di allenamento di uno di loro trasferendosi a Iten, città nella campagna keniana. L'autore finisce quindi per scoprire che in realtà non c'è un segreto alla base del successo dei keniani: non si tratta di genetica, nè di altitudine o alimentazione: un mix di fattori culturali, sociali e ambientali impossibile da replicare altrove ha infatti creato le condizioni per rendere il kenya la miglior nazione per il mezzofondo; tanto che, ogni anno, atleti amatoriali e olimpionici giungono nel paese per perfezionare il proprio allenamento e imparare di più riguardo la corsa.",
