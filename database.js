@@ -1,6 +1,22 @@
 
 module.exports = [
     {
+        titolo: "When",
+        citazione: "Ero solito pensare che il tempismo fosse tutto. Ora credo che tutto sia tempismo.",
+        recensione: "Nel corso delle nostre vite ci concentriamo troppo sul 'cosa' e sul 'perchè' dietro alle nostre scelte, trascurando il momento in cui compiamo determinate azioni. Daniel Pink in questo saggio è in grado di analizzare e commentare i ritmi che regolano le nostre giornate e di spiegare come il tempismo sia più importante di quanto eravamo soliti credere. Spesso infatti, piuttosto che cambiare una routine o agire diversamente, basta solo variare il momento della giornata in cui agiamo e pianificare le nostre giornate in base ai nostri 'orologi biologici' che, pur essendo influenzati molto dai fattori esterni; sono alla base delle nostre vite personali.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/41PP6MVK35L._SX323_BO1,204,203,200_.jpg",
+        link: "https://www.amazon.it/segreti-scienza-scegliere-momento-giusto/dp/8807894394/ref=asc_df_8807894394/?tag=googshopit-21&linkCode=df0&hvadid=555094305761&hvpos=&hvnetw=g&hvrand=1259194512538513907&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-1600631044461&psc=1",
+    },
+    {
+        titolo: "Born to run",
+        citazione: "Forse siamo nati per essere i più grandi maratoneti del mondo",
+        recensione: "L'autore del libro, un giornalista e runner amatoriale, ci porta alla scoperta di una tribù quasi primitiva con una particolarità: i membri di questa comunità sono in grado di correre centinaia di chilometri nella natura; vivendo in capanne e non utilizzando abbigliamento sportivo; eppure, nonostante le loro capacità quasi estreme, non hanno mai vinto o partecipato ad alcuna gara di podismo. Tramite il suo viaggio lo scrittore, non solo indaga le origini di questi corridori instancabili, ma compie una vera e propria 'antologia della corsa'; incontrando e intervistando alcuni dei migliori ultramaratoneti dei nostri tempi.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/515VkOcGnPL._SX321_BO1,204,203,200_.jpg",
+        link: "https://www.amazon.it/Born-Run-Christopher-McDougall/dp/880472000X/ref=asc_df_880472000X/?tag=googshopit-21&linkCode=df0&hvadid=416233355251&hvpos=&hvnetw=g&hvrand=7767842536068222665&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-1064125915112&psc=1&tag=&ref=&adgrpid=97343620281&hvpone=&hvptwo=&hvadid=416233355251&hvpos=&hvnetw=g&hvrand=7767842536068222665&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-1064125915112",
+    },
+    {
         titolo: "Questa è l'America",
         citazione: "Gli Stati Uniti oggi sono come una macchina formidabile che procede a tutta velocità sbandando in continuazione.",
         recensione: "Francesco Costa in otto brevi capitoli sfata e conferma parecchi miti riguardanti gli States; senza risparmiare critiche ma dispensando elogi alla nazione che da ormai quasi un secolo detta i ritmi dell'economia mondiale e produce la maggior parte della cultura contemporanea. Vengono affrontate con obiettività molte tematiche controverse riguardanti gli USA: i problemi legati all'ambiente, l'ambia diffusione delle armi da fuoco, l'abuso di farmaci ed eroina; legando tuttavia queste tematiche a una delle più grandi crisi degli ultimi anni: la forte polarizzazione e radicalizzazione politica che gli americani stanno vivendo.",
