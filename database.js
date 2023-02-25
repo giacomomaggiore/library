@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Mentire con le statistiche",
+        citazione: "Ci sono tre generi di bugie: le bugie, le maledette bugie le statistiche",
+        recensione: "Siamo sempre più sommersi da numeri e informazioni che spesso vengono analizzati traendo conclusioni e previsioni riguardo il mondo in cui viviamo e il futuro; eppure spesso le statistiche non riflettono la realtà dei fatti ma, tramite bias comportamentali ed errori di valutazione, rischiano di dimostrare il falso, spesso a seconda dei fini di chi presenta tali dati. Il libro in questione può essere utile per imparare a leggere i numeri e non compiere i medesimi errori; accenna infatti molti casi in cui si tende a interpretare male la situazione; presentando molti esempi della vita quotidiana ma rischiando di essere poco approfondito per chi mastica già l'argomento.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/41mLGueAqeL._SX339_BO1,204,203,200_.jpg",
+        link: "https://www.amazon.it/Mentire-statistiche-Huff-Darrel/dp/8889479094/ref=asc_df_8889479094/?tag=googshopit-21&linkCode=df0&hvadid=194937908534&hvpos=&hvnetw=g&hvrand=17129459518183940278&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1008463&hvtargid=pla-82954382460&psc=1",
+    },
+    {
         titolo: "When",
         citazione: "Ero solito pensare che il tempismo fosse tutto. Ora credo che tutto sia tempismo.",
         recensione: "Nel corso delle nostre vite ci concentriamo troppo sul 'cosa' e sul 'perchè' dietro alle nostre scelte, trascurando il momento in cui compiamo determinate azioni. Daniel Pink in questo saggio è in grado di analizzare e commentare i ritmi che regolano le nostre giornate e di spiegare come il tempismo sia più importante di quanto eravamo soliti credere. Spesso infatti, piuttosto che cambiare una routine o agire diversamente, basta solo variare il momento della giornata in cui agiamo e pianificare le nostre giornate in base ai nostri 'orologi biologici' che, pur essendo influenzati molto dai fattori esterni; sono alla base delle nostre vite personali.",
