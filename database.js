@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Il caso Olivetti",
+        citazione: "Non tenere in casa nulla che non reputi bello o utile",
+        recensione: "L'Olivetti nel secondo dopoguerra è stata una delle aziende mondiali maggiormente innovative nel settore dell'elettronica, nonchè la prima produttrice dei personal computer da scrivania; eppure la sua eredità nel mercato tecnologico negli anni è pressochè nulla. Il libro racconta i motivi dietro questo declino, legando il successo industriale dell'impresa alle personalità di spicco, prima tra tutti Adriano Olivetti, e le tensioni politiche durante la Guerra Fredda che hanno permesso alla CIA di interferire nella politica italiana determinando anche la fine della Olivetti.,.",
+        punteggio: 3,
+        src: "https://www.rizzolilibri.it/content/uploads/2020/10/14/415559/5029064-9788817148832-285x424.png",
+        link: "https://www.amazon.it/Olivetti-Guerra-misteriosa-personal-computer/dp/8817161403/ref=sr_1_1?adgrpid=108595624465&gclid=Cj0KCQiA9YugBhCZARIsAACXxeJsOmoZRarcO0PJmLB6dg71iG_w-9cYZegzdA82iKFY7LNot5h2LFYaAoB3EALw_wcB&hvadid=499097805764&hvdev=c&hvlocphy=1008463&hvnetw=g&hvqmt=e&hvrand=7988237423455978874&hvtargid=kwd-1004684986297&hydadcr=282_2380936&keywords=il+caso+olivetti&qid=1677924869&sr=8-1",
+    },
+    {
         titolo: "Mentire con le statistiche",
         citazione: "Ci sono tre generi di bugie: le bugie, le maledette bugie le statistiche",
         recensione: "Siamo sempre più sommersi da numeri e informazioni che spesso vengono analizzati traendo conclusioni e previsioni riguardo il mondo in cui viviamo e il futuro; eppure spesso le statistiche non riflettono la realtà dei fatti ma, tramite bias comportamentali ed errori di valutazione, rischiano di dimostrare il falso, spesso a seconda dei fini di chi presenta tali dati. Il libro in questione può essere utile per imparare a leggere i numeri e non compiere i medesimi errori; accenna infatti molti casi in cui si tende a interpretare male la situazione; presentando molti esempi della vita quotidiana ma rischiando di essere poco approfondito per chi mastica già l'argomento.",
