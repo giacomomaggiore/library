@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Greenlight",
+        citazione: "Io non ho tutti 10 nell'arte di vivere, ma chi se ne frega.",
+        recensione: "Matthew Mcconaughe è uno dei volti più noti del cinema negli ultimi anni, eppure anche se non lo fosse quest'autobiografia resterebbe un testo carico di energia e stimoli verso l'avventura. Il sottotitolo cita infatti 'L'arte di correre in discesa'; per tutta la durata del libro viene narrata la vita movimentata, a volte disagiata; sempre al limite e sempre in ricerca di una felicità non convenzionale per l'autore, che spesso si scontra con la società; va in contro a esperienze quasi paranormali e cerca di conciliare tutto con il suo sogno di lavorare nell'industria holliwoodiana e mettere su famiglia.",
+        punteggio: 4,
+        src: "https://m.media-amazon.com/images/I/41YqxdCOcXL._SX329_BO1,204,203,200_.jpg",
+        link: "https://www.amazon.it/Greenlights-correre-discesa-Matthew-McConaughey/dp/8893883961",
+    },
+    {
         titolo: "Il caso Olivetti",
         citazione: "Non tenere in casa nulla che non reputi bello o utile",
         recensione: "L'Olivetti nel secondo dopoguerra è stata una delle aziende mondiali maggiormente innovative nel settore dell'elettronica, nonchè la prima produttrice dei personal computer da scrivania; eppure la sua eredità nel mercato tecnologico negli anni è pressochè nulla. Il libro racconta i motivi dietro questo declino, legando il successo industriale dell'impresa alle personalità di spicco, prima tra tutti Adriano Olivetti, e le tensioni politiche durante la Guerra Fredda che hanno permesso alla CIA di interferire nella politica italiana determinando anche la fine della Olivetti.,.",
