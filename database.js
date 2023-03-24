@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "Ballando nudi nel campo della mente",
+        citazione: "Ogni tanto mia madre mi dava della codeina come antidolorifico.",
+        recensione: "In pochi conoscono Kary Mullis, chimico americano di successo vincitore del Premio Nobel per aver inventato la PCR; ma ancora meno persone conosco la sua storia controversa e del tutto inaspettata trattandosi di un abilissimo scienziato: un passato in cui viaggi, surf e droghe si intrecciano per formare una personalità eccentrica, iperattiva e mai noiosa. Proprio per questo motivo, anche se non ci si occupa di scienze o non si è pratici con legami chimici e molecole; questo testo può rappresentare un divertente ma istruttiva lettura per tutti.",
+        punteggio: 5,
+        src: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71gvdHP0jUL.jpg",
+        link: "https://www.amazon.it/Ballando-avventure-eccentrico-scienziati-moderni/dp/8868520125",
+    },
+    {
         titolo: "Greenlight",
         citazione: "Io non ho tutti 10 nell'arte di vivere, ma chi se ne frega.",
         recensione: "Matthew Mcconaughe è uno dei volti più noti del cinema negli ultimi anni, eppure anche se non lo fosse quest'autobiografia resterebbe un testo carico di energia e stimoli verso l'avventura. Il sottotitolo cita infatti 'L'arte di correre in discesa'; per tutta la durata del libro viene narrata la vita movimentata, a volte disagiata; sempre al limite e sempre in ricerca di una felicità non convenzionale per l'autore, che spesso si scontra con la società; va in contro a esperienze quasi paranormali e cerca di conciliare tutto con il suo sogno di lavorare nell'industria holliwoodiana e mettere su famiglia.",
