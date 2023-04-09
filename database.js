@@ -1,6 +1,14 @@
 
 module.exports = [
     {
+        titolo: "La Mappa delle Culture",
+        citazione: "Perchè agli Olandesi durante una riunione non interessa affatto chi è il capo.",
+        recensione: "Erin Meyer in questo saggio, basandosi sulla sua esperienza di manager e mediatrice culturale, racconta i modi in cui si lavora e si comunica nei vari paesi del mondo, descrivendo le maggiori differenze culturali e sottolineando che quest'ultime causano numerose spiacevoli incompresioni quando ci si interfaccia con persone straniere. Ciò che nella nostra cultura viene reputato normale, come per esempio andare al lavoro in t-shirt o dare feedback diretti ai propri colleghi; in altre nazioni tutto ciò è impensabile e potrebbe portare a litigi e situazioni spiacevoli.",
+        punteggio: 5,
+        src: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/719TodnyPRL.jpg",
+        link: "https://www.amazon.it/culture-persone-pensano-lavorano-comunicano/dp/8836200419",
+    },
+    {
         titolo: "Ballando nudi nel campo della mente",
         citazione: "Ogni tanto mia madre mi dava della codeina come antidolorifico.",
         recensione: "In pochi conoscono Kary Mullis, chimico americano di successo vincitore del Premio Nobel per aver inventato la PCR; ma ancora meno persone conosco la sua storia controversa e del tutto inaspettata trattandosi di un abilissimo scienziato: un passato in cui viaggi, surf e droghe si intrecciano per formare una personalità eccentrica, iperattiva e mai noiosa. Proprio per questo motivo, anche se non ci si occupa di scienze o non si è pratici con legami chimici e molecole; questo testo può rappresentare un divertente ma istruttiva lettura per tutti.",
